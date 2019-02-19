@@ -10,7 +10,7 @@
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
         "created": 1550610491,
-        "updated": 1550610491,
+        "updated": 1550610510,
         "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "publishing": {
             "git": {
@@ -63,9 +63,21 @@
             "description": "",
             "metadata": {
                 "created": 1550610491,
-                "updated": 1550610491
+                "updated": 1550610510
+            }
+        },
+        {
+            "id": "item-e9263476-0a86-402c-bfb4-7cd5624e2d65",
+            "indent": 1,
+            "location": "pages\/things\/index.html",
+            "order": 0,
+            "parent": "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
+            "title": "things",
+            "description": "",
+            "metadata": {
+                "created": 1550610510,
+                "updated": 1550610510
             }
         }
-    ],
-    "location": "\/_sites\/test\/index.html"
+    ]
 }
