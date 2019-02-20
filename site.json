@@ -10,7 +10,7 @@
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
         "created": 1550610491,
-        "updated": 1550610605,
+        "updated": 1550690505,
         "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "publishing": {
             "git": {
@@ -60,11 +60,11 @@
             "location": "pages\/item-14e9e811-8d92-41ee-b2f1-8248eacc3138\/index.html",
             "order": 0,
             "parent": null,
-            "title": "New page",
+            "title": "New page name",
             "description": "",
             "metadata": {
                 "created": 1550610491,
-                "updated": 1550610605
+                "updated": 1550690505
             }
         },
         {
@@ -73,11 +73,11 @@
             "location": "pages\/things\/index.html",
             "order": 0,
             "parent": "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
-            "title": "things",
+            "title": "thfffings",
             "description": "",
             "metadata": {
                 "created": 1550610510,
-                "updated": 1550610605
+                "updated": 1550690505
             }
         },
         {
@@ -90,7 +90,7 @@
             "description": "",
             "metadata": {
                 "created": 1550610519,
-                "updated": 1550610605
+                "updated": 1550690505
             }
         },
         {
@@ -103,7 +103,7 @@
             "description": "",
             "metadata": {
                 "created": 1550610519,
-                "updated": 1550610605
+                "updated": 1550690505
             }
         },
         {
@@ -116,7 +116,7 @@
             "description": "My grfdssdfdsfdsfdfssfddsfsdfdsfdsfdsfdsfeat new content!",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1550688319,
+                "updated": 1550690505,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/test\/files\/IMG_20190127_153429.jpg",
@@ -139,7 +139,7 @@
             "description": "",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1550610605
+                "updated": 1550690505
             }
         },
         {
