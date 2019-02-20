@@ -61,10 +61,10 @@
             "order": 0,
             "parent": null,
             "title": "New page name",
-            "description": "My greaMy Home Paget new content!",
+            "description": "My greaMy Home Paget new content!HeadingA paragraph of text would go here to describe the work.",
             "metadata": {
                 "created": 1550610491,
-                "updated": 1550690994,
+                "updated": 1550691673,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
