@@ -115,7 +115,17 @@
             "description": "",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1550610605
+                "updated": 1550610605,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/test\/files\/IMG_20190127_153429.jpg",
+                        "fullUrl": "\/_sites\/test\/files\/IMG_20190127_153429.jpg",
+                        "url": "files\/IMG_20190127_153429.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190127_153429.jpg",
+                        "size": 27242
+                    }
+                ]
             }
         },
         {
