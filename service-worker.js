@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [{{ swhash| json_encode() }} ];
+var precacheConfig = [[[&quot;pages\/item-14e9e811-8d92-41ee-b2f1-8248eacc3138\/index.html&quot;,&quot;UOPrqGQQy21bJDARJtQS1eiGHmqu3OPHwnI6LSWk3Ec&quot;],[&quot;pages\/things\/index.html&quot;,&quot;iXahg5qHCJ-QBPtQ7Wh5y3dlQSYFY6q8nzzjRTUSS1I&quot;],[&quot;pages\/stuff\/index.html&quot;,&quot;MfyyHXlx6IeLoyCdWmkz9xQti2uOvmQ04E0HMi9-sII&quot;],[&quot;pages\/whatever\/index.html&quot;,&quot;WXfQ78nUYYiPuwSCYj7LbXD1jayVJ-5dTUGPSZg52mo&quot;],[&quot;pages\/things-1\/index.html&quot;,&quot;Yn32C5jXZshYDa4xVtbq7wsDxR-lKHI9C3QCCYCGZZk&quot;],[&quot;pages\/what\/index.html&quot;,&quot;W6DJqhMhnCsMVM7zYpVX3szz_ae0CczDSVGGxhH0Q28&quot;],[&quot;pages\/ever\/index.html&quot;,&quot;9XRidZpcLaOr5A0h_uI9HhwjAhWXeuL9pCzNGn_JmZA&quot;],[&quot;index.html&quot;,&quot;cef86ZN0i-ggRtwtGxvuXbQjdJCBHbD4CY4DpVHAUkM&quot;],[&quot;manifest.json&quot;,&quot;Y5xWfvKgAGrAlkR2EABD1yUJRAGhKse8da0xAjJiFGs&quot;]] ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
