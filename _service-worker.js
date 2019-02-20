@@ -37,60 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [ [
-    [
-        ".\/pages\/item-14e9e811-8d92-41ee-b2f1-8248eacc3138\/index.html",
-        "9ykaHcJ1USSJ7Jw9synLww"
-    ],
-    [
-        ".\/pages\/things\/index.html",
-        "q58tcFGcJoe4mFfER6m6pg"
-    ],
-    [
-        ".\/pages\/stuff\/index.html",
-        "fmRYDBpnHVbur9rXxqXyg"
-    ],
-    [
-        ".\/pages\/whatever\/index.html",
-        "gm78ytkgVTpi0S36JFG1jw"
-    ],
-    [
-        ".\/pages\/things-1\/index.html",
-        "GYAeJVXbrlnD6JZcjIkIEQ"
-    ],
-    [
-        ".\/pages\/what\/index.html",
-        "LG3tuXagkoiCiXMoR4onzA"
-    ],
-    [
-        ".\/pages\/ever\/index.html",
-        "7ZY4kPaG4kzeJrbJLZiw"
-    ],
-    [
-        ".\/",
-        "0iHaCBhBIThXLr9pirYmdA"
-    ],
-    [
-        ".\/index.html",
-        "1b0RfDztDtZPbyNnTgsqA"
-    ],
-    [
-        ".\/manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        ".\/site.json",
-        "kdkXKxBDMOCcKNjFWU0kOw"
-    ],
-    [
-        ".\/browserconfig.xml",
-        "727n0lzfLfW3mvEq1XwmQ"
-    ],
-    [
-        ".\/404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ]
-] ];
+var precacheConfig = [ {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }} ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
