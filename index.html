@@ -2,19 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>{{ title }}</title>
-  <base href="{{ basePath }}" />
+  <title>test</title>
+  <base href="/test/" />
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,user-scalable=yes">
   <meta name="generator" content="HAXCMS">
-  <meta name="description" content="{{ description }}">
-  <meta name="theme-color" content="{{ hexCode }}">
+  <meta name="description" content="test">
+  <meta name="theme-color" content="#aeff00">
   <meta name="mobile-web-app-capable" content="yes">
-  <meta name="application-name" content="{{ title }}">
+  <meta name="application-name" content="test">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="{{ title }}">
+  <meta name="apple-mobile-web-app-title" content="test">
   <meta name="msapplication-TileImage" content="assets/icon-144x144.png">
-  <meta name="msapplication-TileColor" content="{{ hexCode }}">
+  <meta name="msapplication-TileColor" content="#aeff00">
   <meta name="msapplication-tap-highlight" content="no">
   <link rel="icon" href="assets/favicon.ico">
   <link rel="apple-touch-icon" href="assets/icon-48x48.png">
@@ -54,7 +54,7 @@
     }(window.location))
   </script>
   <script>
-    window.MyAppGlobals = { rootPath: '{{ basePath }}' };
+    window.MyAppGlobals = { rootPath: '/test/' };
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
         navigator.serviceWorker.register('service-worker.js', {

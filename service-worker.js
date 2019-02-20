@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [{{ swhash| json_encode() }} ];
+var precacheConfig = [[[&quot;pages\/item-14e9e811-8d92-41ee-b2f1-8248eacc3138\/index.html&quot;,&quot;cOGjnRjWH7uAw7P8bz5SPA&quot;],[&quot;pages\/things\/index.html&quot;,&quot;q58tcFGcJoe4mFfER6m6pg&quot;],[&quot;pages\/stuff\/index.html&quot;,&quot;fmRYDBpnHVbur9rXxqXyg&quot;],[&quot;pages\/whatever\/index.html&quot;,&quot;gm78ytkgVTpi0S36JFG1jw&quot;],[&quot;pages\/things-1\/index.html&quot;,&quot;GYAeJVXbrlnD6JZcjIkIEQ&quot;],[&quot;pages\/what\/index.html&quot;,&quot;LG3tuXagkoiCiXMoR4onzA&quot;],[&quot;pages\/ever\/index.html&quot;,&quot;7ZY4kPaG4kzeJrbJLZiw&quot;],[&quot;index.html&quot;,&quot;wSVtrJRMLHvwkJUoGsmQw&quot;],[&quot;manifest.json&quot;,&quot;wrwnDCQ0sHPmgkVOQnxFpg&quot;]] ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
