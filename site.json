@@ -16,8 +16,8 @@
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages",
-                "url": "git@github.com:elmsln\/test.git",
-                "cdn": "webcomponents.psu.edu"
+                "url": "git@github.com:btopro\/testtesttest.git",
+                "cdn": "cdn.waxam.io"
             }
         },
         "dynamicElementLoader": {
