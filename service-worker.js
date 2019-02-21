@@ -237,10 +237,12 @@ self.addEventListener('fetch', function (event) {
       url = new URL(navigateFallback, self.location).toString();
       shouldRespond = urlsToCacheKeys.has(url);
     }
-    // support a app centric list
-    if (self.MyAppGlobals.thirdPartyUrls.indexOf(event.request.url) > -1) {
+    
+    let cdn = new RegExp({{ cdnRegex|raw }})
+    if (cdn.test(url)) {
       shouldRespond = true;
     }
+
     // If shouldRespond was set to true at any point, then call
     // event.respondWith(), using the appropriate cache key.
     if (shouldRespond) {
