@@ -37,92 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "pages\/item-14e9e811-8d92-41ee-b2f1-8248eacc3138\/index.html",
-        "9ykaHcJ1USSJ7Jw9synLww"
-    ],
-    [
-        "pages\/things\/index.html",
-        "q58tcFGcJoe4mFfER6m6pg"
-    ],
-    [
-        "pages\/stuff\/index.html",
-        "fmRYDBpnHVbur9rXxqXyg"
-    ],
-    [
-        "pages\/whatever\/index.html",
-        "gm78ytkgVTpi0S36JFG1jw"
-    ],
-    [
-        "pages\/things-1\/index.html",
-        "GYAeJVXbrlnD6JZcjIkIEQ"
-    ],
-    [
-        "pages\/what\/index.html",
-        "LG3tuXagkoiCiXMoR4onzA"
-    ],
-    [
-        "pages\/ever\/index.html",
-        "7ZY4kPaG4kzeJrbJLZiw"
-    ],
-    [
-        "",
-        "0iHaCBhBIThXLr9pirYmdA"
-    ],
-    [
-        "\/testtesttest\/",
-        "t0FbmfFmPfNbfTkXQAyPA"
-    ],
-    [
-        "index.html",
-        "lZmlYRAXwEMH8nRnJlDa9g"
-    ],
-    [
-        "manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        "site.json",
-        "kdkXKxBDMOCcKNjFWU0kOw"
-    ],
-    [
-        "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ],
-    [
-        "cdn.waxam.io\/build\/es6\/node_modules\/@lrnwebcomponents\/haxcms-elements\/lib\/base.css",
-        "M5nnjXzs5JA7hcH8Kf0g"
-    ],
-    [
-        "cdn.waxam.io\/build\/es6\/node_modules\/web-animations-js\/web-animations-next-lite.min.js",
-        "9WxugHHjBtEpQENvYtSHyw"
-    ],
-    [
-        "cdn.waxam.io\/build\/es6\/node_modules\/@webcomponents\/webcomponentsjs\/webcomponents-loader.js",
-        "1b11FWn5ZpJJRapvtwAOYw"
-    ],
-    [
-        "cdn.waxam.io\/assets\/babel-top.js",
-        "4w5lgIkUaGcks7RSkdwo4A"
-    ],
-    [
-        "cdn.waxam.io\/assets\/babel-bottom.js",
-        "naGIS06oX8dPU16gcGBA"
-    ],
-    [
-        "cdn.waxam.io\/build\/es6\/node_modules\/@webcomponents\/webcomponentsjs\/custom-elements-es5-adapter.js",
-        "0X1NBthkuI3haI6sIBMXGA"
-    ],
-    [
-        "cdn.waxam.io\/build\/es5-amd\/dist\/build.js",
-        "65nUp5CCxYCpSbmiMvJwSQ"
-    ],
-    [
-        "cdn.waxam.io\/build\/es6\/dist\/build.js",
-        "ZysjJwn3Gwr0aIDHOUje2g"
-    ]
-];
+var precacheConfig = {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -322,7 +237,10 @@ self.addEventListener('fetch', function (event) {
       url = new URL(navigateFallback, self.location).toString();
       shouldRespond = urlsToCacheKeys.has(url);
     }
-
+    // support a app centric list
+    if (self.MyAppGlobals.thirdPartyUrls.indexOf(event.request.url) > -1) {
+      shouldRespond = true;
+    }
     // If shouldRespond was set to true at any point, then call
     // event.respondWith(), using the appropriate cache key.
     if (shouldRespond) {
