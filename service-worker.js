@@ -238,7 +238,7 @@ self.addEventListener('fetch', function (event) {
       shouldRespond = urlsToCacheKeys.has(url);
     }
     
-    let cdn = new RegExp({{ cdnRegex|raw }})
+    let cdn = new RegExp('{{ cdnRegex|raw }}');
     if (cdn.test(url)) {
       shouldRespond = true;
     }
