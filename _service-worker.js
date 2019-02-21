@@ -37,56 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
-        "9ykaHcJ1USSJ7Jw9synLww"
-    ],
-    [
-        "things",
-        "q58tcFGcJoe4mFfER6m6pg"
-    ],
-    [
-        "stuff",
-        "fmRYDBpnHVbur9rXxqXyg"
-    ],
-    [
-        "whatever",
-        "gm78ytkgVTpi0S36JFG1jw"
-    ],
-    [
-        "things-1",
-        "GYAeJVXbrlnD6JZcjIkIEQ"
-    ],
-    [
-        "what",
-        "LG3tuXagkoiCiXMoR4onzA"
-    ],
-    [
-        "ever",
-        "7ZY4kPaG4kzeJrbJLZiw"
-    ],
-    [
-        "\/testtesttest\/",
-        "t0FbmfFmPfNbfTkXQAyPA"
-    ],
-    [
-        "index.html",
-        "lZmlYRAXwEMH8nRnJlDa9g"
-    ],
-    [
-        "manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        "site.json",
-        "kdkXKxBDMOCcKNjFWU0kOw"
-    ],
-    [
-        "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ]
-];
+var precacheConfig = {{ swhash| json_encode(constant('JSON_PRETTY_PRINT')) | raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
