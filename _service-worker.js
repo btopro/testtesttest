@@ -37,64 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "pages\/item-14e9e811-8d92-41ee-b2f1-8248eacc3138\/index.html",
-        "9ykaHcJ1USSJ7Jw9synLww"
-    ],
-    [
-        "pages\/things\/index.html",
-        "q58tcFGcJoe4mFfER6m6pg"
-    ],
-    [
-        "pages\/stuff\/index.html",
-        "58vaMV7ewWXozhev1EPAjg"
-    ],
-    [
-        "pages\/whatever\/index.html",
-        "gm78ytkgVTpi0S36JFG1jw"
-    ],
-    [
-        "pages\/things-1\/index.html",
-        "Y8Qzr01Pg6UAD3sZQiRug"
-    ],
-    [
-        "pages\/what\/index.html",
-        "06IwFzXA9GGr7bjdmvgcJg"
-    ],
-    [
-        "pages\/ever\/index.html",
-        "7ZY4kPaG4kzeJrbJLZiw"
-    ],
-    [
-        "",
-        "0iHaCBhBIThXLr9pirYmdA"
-    ],
-    [
-        "\/testtesttest\/",
-        "t0FbmfFmPfNbfTkXQAyPA"
-    ],
-    [
-        "index.html",
-        "ZEDXQnsHeaOIsoNNmqGWkw"
-    ],
-    [
-        "manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        "site.json",
-        "gI1FPLDWS3jwjMRAFOemw"
-    ],
-    [
-        "assets\/favicon.ico",
-        "HaBSbnoy8mFDNU595Wburg"
-    ],
-    [
-        "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ]
-];
+var precacheConfig = {{ swhash| json_encode(constant('JSON_PRETTY_PRINT')) | raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -343,4 +286,4 @@ self.addEventListener('fetch', function (event) {
 
 // Runtime cache configuration, using the sw-toolbox library.
 
-toolbox.router.get(/(https?:\/\/cdn\.waxam\.io(\/[A-Za-z0-9\-\._~:\/\?#\[\]@!$&'\(\)\*\+,;\=]*)?)/, toolbox.networkFirst, {});
+toolbox.router.get(/'{{ cdnRegex }}'/, toolbox.cacheFirst, {});
