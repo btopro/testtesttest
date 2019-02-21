@@ -17,7 +17,7 @@
                 "vendor": "github",
                 "branch": "gh-pages",
                 "url": "git@github.com:btopro\/testtesttest.git",
-                "cdn": "cdn.waxam.io"
+                "cdn": "webcomponents.psu.edu"
             }
         },
         "dynamicElementLoader": {
@@ -51,7 +51,7 @@
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
         },
-        "lastPublished": 1550780113
+        "lastPublished": 1550782268
     },
     "items": [
         {
