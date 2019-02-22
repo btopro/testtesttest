@@ -164,6 +164,20 @@
                 "created": 1550610605,
                 "updated": 1550610605
             }
+        },
+        {
+            "id": "item-2ee1c1dd-02fa-4860-b9f4-703c5bde0d94",
+            "indent": 0,
+            "location": "pages\/my-green-monster\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "my green monster",
+            "description": "",
+            "metadata": {
+                "siteName": "testtesttest",
+                "created": 1550841355,
+                "updated": 1550841355
+            }
         }
     ]
 }
