@@ -6,7 +6,7 @@
     "license": "by-sa",
     "metadata": {
         "siteName": "testtesttest",
-        "theme": "outline-player",
+        "theme": "simple-blog",
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
         "created": 1550610491,
@@ -126,7 +126,7 @@
             "description": "My grfdssdfdsfdsf2222dfssfddsfsdfdsfdsfdsfdsfeat new content!",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1550859185,
+                "updated": 1550867512,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/test\/files\/IMG_20190127_153429.jpg",
