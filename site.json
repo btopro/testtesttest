@@ -10,7 +10,7 @@
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
         "created": 1550610491,
-        "updated": 1550690505,
+        "updated": 1550867644,
         "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "publishing": {
             "git": {
@@ -64,7 +64,7 @@
             "description": "HeadingA paragraph of text would go here to describe the work.",
             "metadata": {
                 "created": 1550610491,
-                "updated": 1550861111,
+                "updated": 1550867644,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
@@ -87,7 +87,7 @@
             "description": "",
             "metadata": {
                 "created": 1550610510,
-                "updated": 1550690505
+                "updated": 1550867644
             }
         },
         {
@@ -100,7 +100,7 @@
             "description": "My great new content!Header",
             "metadata": {
                 "created": 1550610519,
-                "updated": 1550867576
+                "updated": 1550867644
             }
         },
         {
@@ -113,7 +113,7 @@
             "description": "My great new content!",
             "metadata": {
                 "created": 1550610519,
-                "updated": 1550867570
+                "updated": 1550867644
             }
         },
         {
@@ -126,7 +126,7 @@
             "description": "My grfdssdfdsfdsf2222dfssfddsfsdfdsfdsfdsfdsfeat new content!",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1550867512,
+                "updated": 1550867644,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/test\/files\/IMG_20190127_153429.jpg",
@@ -149,7 +149,7 @@
             "description": "My great new content!Stuff and things",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1550770688
+                "updated": 1550867644
             }
         },
         {
@@ -169,70 +169,70 @@
             "id": "item-2ee1c1dd-02fa-4860-b9f4-703c5bde0d94",
             "indent": 0,
             "location": "pages\/my-green-monster\/index.html",
-            "order": 0,
+            "order": 1,
             "parent": null,
             "title": "my green monster",
             "description": "",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550841355,
-                "updated": 1550841355
+                "updated": 1550867644
             }
         },
         {
             "id": "item-20e1083e-48c5-4624-b7b0-d4a8818ea936",
             "indent": 0,
             "location": "pages\/another-here\/index.html",
-            "order": 0,
+            "order": 2,
             "parent": null,
             "title": "another here",
             "description": "My great new content!",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550845398,
-                "updated": 1550867531
+                "updated": 1550867644
             }
         },
         {
             "id": "item-f03179e8-acbb-40d8-bd80-3bfd455a04ff",
             "indent": 0,
             "location": "pages\/fff\/index.html",
-            "order": 0,
+            "order": 3,
             "parent": null,
             "title": "fff",
             "description": "My great new content!dssdffssdfdfsdfsdfsdfsdfs",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550845651,
-                "updated": 1550859172
+                "updated": 1550867644
             }
         },
         {
             "id": "item-c06bd6d3-5451-4e16-92b6-46515b67cd62",
             "indent": 0,
             "location": "pages\/stuff-1\/index.html",
-            "order": 0,
+            "order": 4,
             "parent": null,
             "title": "stuff",
             "description": "Ex uno Plures",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550859299,
-                "updated": 1550867522
+                "updated": 1550867644
             }
         },
         {
             "id": "item-8ae09ccf-936c-4377-8299-fc743f799a03",
             "indent": 0,
             "location": "pages\/nothing-but-net\/index.html",
-            "order": 0,
+            "order": 5,
             "parent": null,
-            "title": "NOTHING BUT NET",
+            "title": "NOTHING BUT NET.. sorta",
             "description": "Ex uno Plures",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550867588,
-                "updated": 1550867627
+                "updated": 1550867644
             }
         }
     ]
