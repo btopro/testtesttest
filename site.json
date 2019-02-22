@@ -110,10 +110,10 @@
             "order": 1,
             "parent": "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
             "title": "whatever",
-            "description": "",
+            "description": "My great new content!",
             "metadata": {
                 "created": 1550610519,
-                "updated": 1550690505
+                "updated": 1550867570
             }
         },
         {
