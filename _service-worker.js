@@ -37,92 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "pages\/item-14e9e811-8d92-41ee-b2f1-8248eacc3138\/index.html",
-        "J2qxDUJtrPaPgNJYar1IVQ"
-    ],
-    [
-        "pages\/things\/index.html",
-        "q58tcFGcJoe4mFfER6m6pg"
-    ],
-    [
-        "pages\/stuff\/index.html",
-        "vONhv9ZU9uvoGRMsodJ0Iw"
-    ],
-    [
-        "pages\/whatever\/index.html",
-        "BgbBNFwmoEFiPG3b5hxA"
-    ],
-    [
-        "pages\/things-1\/index.html",
-        "Y8Qzr01Pg6UAD3sZQiRug"
-    ],
-    [
-        "pages\/what\/index.html",
-        "06IwFzXA9GGr7bjdmvgcJg"
-    ],
-    [
-        "pages\/ever\/index.html",
-        "7ZY4kPaG4kzeJrbJLZiw"
-    ],
-    [
-        "pages\/my-green-monster\/index.html",
-        "rXhKnrxxFA0dcvsLdTM1sw"
-    ],
-    [
-        "pages\/another-here\/index.html",
-        "kx4zfSkJPcQpc5PUcSebw"
-    ],
-    [
-        "pages\/fff\/index.html",
-        "Qu9fTm48rRBC66xrdvS2Q"
-    ],
-    [
-        "pages\/stuff-1\/index.html",
-        "Cn5JRrEVylZ4Ic1jHUvSg"
-    ],
-    [
-        "pages\/nothing-but-net\/index.html",
-        "7hsn8YVYIVg55lvFyVF7Q"
-    ],
-    [
-        "",
-        "H5v4GqP3fgzKeSfNCQpHg"
-    ],
-    [
-        "\/testtesttest\/",
-        "87s84uxHMSzdvSpAkazGTA"
-    ],
-    [
-        "index.html",
-        "yMY8YkOJrA3tTAh4oUj7hg"
-    ],
-    [
-        "manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        "site.json",
-        "hwEJIMOOETokWj2PdUFPnw"
-    ],
-    [
-        "assets\/favicon.ico",
-        "HaBSbnoy8mFDNU595Wburg"
-    ],
-    [
-        "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ],
-    [
-        "files\/IMG_20190127_153429.jpg",
-        "yd4LYpwHWIv1yKGKmkQd4Q"
-    ],
-    [
-        "files\/IMG_20181228_113330.jpg",
-        "5b8FWMpVFsnQhPMXttFD7w"
-    ]
-];
+var precacheConfig = {{ swhash| json_encode(constant('JSON_PRETTY_PRINT')) | raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -371,4 +286,4 @@ self.addEventListener('fetch', function (event) {
 
 // Runtime cache configuration, using the sw-toolbox library.
 
-toolbox.router.get(/(https?:\/\/cdn\.waxam\.io(\/[A-Za-z0-9\-\._~:\/\?#\[\]@!$&'\(\)\*\+,;\=]*)?)/, toolbox.fastest, {});
+toolbox.router.get(/'{{ cdnRegex }}'/, toolbox.cacheFirst, {});
