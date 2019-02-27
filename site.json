@@ -6,11 +6,11 @@
     "license": "by-sa",
     "metadata": {
         "siteName": "testtesttest",
-        "theme": "outline-player",
+        "theme": "haxcms-dev-theme",
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
         "created": 1550610491,
-        "updated": 1551242019,
+        "updated": 1551242055,
         "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "publishing": {
             "git": {
