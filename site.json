@@ -6,11 +6,15 @@
     "license": "by-sa",
     "metadata": {
         "siteName": "testtesttest",
-        "theme": "haxcms-dev-theme",
+        "theme": {
+            "element": "outline-player",
+            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
+            "name": "Outline player"
+        },
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
         "created": 1550610491,
-        "updated": 1551242055,
+        "updated": 1551286866,
         "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "publishing": {
             "git": {
