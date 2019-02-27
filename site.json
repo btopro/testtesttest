@@ -12,10 +12,10 @@
             "name": "Developer theme"
         },
         "image": "assets\/banner.jpg",
-        "hexCode": "#aeff00",
+        "hexCode": "#0059ff",
         "created": 1550610491,
-        "updated": 1551295045,
-        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "updated": 1551302062,
+        "cssVariable": "blue",
         "publishing": {
             "git": {
                 "vendor": "github",
