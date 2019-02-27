@@ -6,11 +6,11 @@
     "license": "by-sa",
     "metadata": {
         "siteName": "testtesttest",
-        "theme": "simple-blog",
+        "theme": "haxcms-dev-theme",
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
         "created": 1550610491,
-        "updated": 1550867657,
+        "updated": 1551241966,
         "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "publishing": {
             "git": {
@@ -51,7 +51,8 @@
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
         },
-        "lastPublished": 1551129360
+        "lastPublished": 1551129360,
+        "icon": ""
     },
     "items": [
         {
