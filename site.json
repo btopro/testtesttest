@@ -6,11 +6,11 @@
     "license": "by-sa",
     "metadata": {
         "siteName": "testtesttest",
-        "theme": "simple-blog",
+        "theme": "outline-player",
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
         "created": 1550610491,
-        "updated": 1551242010,
+        "updated": 1551242019,
         "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "publishing": {
             "git": {
