@@ -187,15 +187,15 @@
         {
             "id": "item-20e1083e-48c5-4624-b7b0-d4a8818ea936",
             "indent": 0,
-            "location": "pages\/another-here\/index.html",
+            "location": "pages\/another-here-cool\/index.html",
             "order": 7,
             "parent": null,
-            "title": "another here",
+            "title": "Cool here",
             "description": "My great new content!",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550845398,
-                "updated": 1551370910
+                "updated": 1551376806
             }
         },
         {
