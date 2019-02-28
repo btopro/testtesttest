@@ -7,14 +7,14 @@
     "metadata": {
         "siteName": "testtesttest",
         "theme": {
-            "element": "outline-player",
-            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
-            "name": "Outline player"
+            "element": "simple-blog",
+            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
+            "name": "Simple blog"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#009d75",
         "created": 1550610491,
-        "updated": 1551369827,
+        "updated": 1551369992,
         "cssVariable": "teal",
         "publishing": {
             "git": {
