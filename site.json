@@ -173,7 +173,7 @@
         {
             "id": "item-2ee1c1dd-02fa-4860-b9f4-703c5bde0d94",
             "indent": 0,
-            "location": "pages\/some-new-thing\/index.html",
+            "location": "pages\/some-new-thingf\/index.html",
             "order": 8,
             "parent": null,
             "title": "Changedf",
@@ -181,7 +181,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550841355,
-                "updated": 1551381810
+                "updated": 1551381843
             }
         },
         {
