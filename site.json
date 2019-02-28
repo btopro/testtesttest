@@ -7,14 +7,14 @@
     "metadata": {
         "siteName": "testtesttest",
         "theme": {
-            "element": "haxcms-dev-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/haxcms-dev-theme.js",
-            "name": "Developer theme"
+            "element": "simple-blog",
+            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
+            "name": "Simple blog"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#009d75",
         "created": 1550610491,
-        "updated": 1551389421,
+        "updated": 1551389440,
         "cssVariable": "teal",
         "publishing": {
             "git": {
