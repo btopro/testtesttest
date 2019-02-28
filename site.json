@@ -237,7 +237,17 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550867588,
-                "updated": 1551375214
+                "updated": 1551375214,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
+                        "url": "files\/IMG_20181228_113330.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20181228_113330.jpg",
+                        "size": 63981
+                    }
+                ]
             }
         },
         {
