@@ -85,14 +85,14 @@
         {
             "id": "item-e9263476-0a86-402c-bfb4-7cd5624e2d65",
             "indent": 1,
-            "location": "pages\/things-2\/index.html",
+            "location": "pages\/someotherplace\/index.html",
             "order": 1,
             "parent": "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
             "title": "Things",
             "description": "",
             "metadata": {
                 "created": 1550610510,
-                "updated": 1551374907
+                "updated": 1551374931
             }
         },
         {
