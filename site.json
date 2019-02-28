@@ -7,15 +7,15 @@
     "metadata": {
         "siteName": "testtesttest",
         "theme": {
-            "element": "outline-player",
-            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
-            "name": "Outline player"
+            "element": "haxcms-slide-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/haxcms-slide-theme.js",
+            "name": "Slide player"
         },
         "image": "assets\/banner.jpg",
-        "hexCode": "#009d75",
+        "hexCode": "#7e00d8",
         "created": 1550610491,
-        "updated": 1551389511,
-        "cssVariable": "teal",
+        "updated": 1551390419,
+        "cssVariable": "deep-purple",
         "publishing": {
             "git": {
                 "vendor": "github",
