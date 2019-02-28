@@ -291,7 +291,17 @@
             "description": "",
             "metadata": {
                 "created": 1551369680,
-                "updated": 1551369680
+                "updated": 1551369680,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
+                        "url": "files\/IMG_20181228_114109.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20181228_114109.jpg",
+                        "size": 26459
+                    }
+                ]
             }
         }
     ]
