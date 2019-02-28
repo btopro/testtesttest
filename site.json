@@ -173,15 +173,15 @@
         {
             "id": "item-2ee1c1dd-02fa-4860-b9f4-703c5bde0d94",
             "indent": 0,
-            "location": "pages\/my-green-monster\/index.html",
+            "location": "pages\/some-new-thing\/index.html",
             "order": 8,
             "parent": null,
-            "title": "my green monster",
+            "title": "A new title here",
             "description": "",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550841355,
-                "updated": 1551375069
+                "updated": 1551375091
             }
         },
         {
