@@ -177,11 +177,11 @@
             "order": 8,
             "parent": null,
             "title": "Changed",
-            "description": "",
+            "description": "My great new content!",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550841355,
-                "updated": 1551375113
+                "updated": 1551375124
             }
         },
         {
