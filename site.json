@@ -124,14 +124,14 @@
         {
             "id": "item-325b21a3-fce2-4161-94ac-043f09665146",
             "indent": 3,
-            "location": "pages\/things-1\/index.html",
+            "location": "pages\/things-from-my-father\/index.html",
             "order": 0,
             "parent": "item-7bea39d0-083b-481b-afb1-774442303979",
-            "title": "thingsttttt",
+            "title": "Father",
             "description": "My grfdssdfdsfdsfdsfdsfdsfdsfeat new content!",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1551376544,
+                "updated": 1551376557,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/test\/files\/IMG_20190127_153429.jpg",
