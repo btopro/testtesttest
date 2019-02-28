@@ -176,12 +176,12 @@
             "location": "pages\/some-new-thing\/index.html",
             "order": 8,
             "parent": null,
-            "title": "Changed",
+            "title": "Changedf",
             "description": "My great new content!",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550841355,
-                "updated": 1551375198
+                "updated": 1551381810
             }
         },
         {
