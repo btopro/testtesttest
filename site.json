@@ -1,8 +1,8 @@
 {
     "id": "0a69b261-be07-4df2-a0c7-72577ef5825d",
-    "title": "testtesttest",
+    "title": "Lecture 100 : Art",
     "author": "",
-    "description": "testtesttest",
+    "description": "A lecture",
     "license": "by-sa",
     "metadata": {
         "siteName": "testtesttest",
@@ -14,7 +14,7 @@
         "image": "assets\/banner.jpg",
         "hexCode": "#7e00d8",
         "created": 1550610491,
-        "updated": 1551390419,
+        "updated": 1551403755,
         "cssVariable": "deep-purple",
         "publishing": {
             "git": {
