@@ -7,14 +7,14 @@
     "metadata": {
         "siteName": "testtesttest",
         "theme": {
-            "element": "outline-player",
-            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
-            "name": "Outline player"
+            "element": "haxcms-slide-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/haxcms-slide-theme.js",
+            "name": "Slide player"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#7e00d8",
         "created": 1550610491,
-        "updated": 1551454077,
+        "updated": 1551461433,
         "cssVariable": "deep-purple",
         "publishing": {
             "git": {
@@ -53,7 +53,9 @@
             "task-list": "@lrnwebcomponents\/task-list\/task-list.js",
             "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
-            "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
+            "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js",
+            "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
+            "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js"
         },
         "lastPublished": 1551388441,
         "icon": ""
