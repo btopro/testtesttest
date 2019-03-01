@@ -7,14 +7,14 @@
     "metadata": {
         "siteName": "testtesttest",
         "theme": {
-            "element": "haxcms-slide-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/haxcms-slide-theme.js",
-            "name": "Slide player"
+            "element": "simple-blog",
+            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
+            "name": "Simple blog"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#7e00d8",
         "created": 1550610491,
-        "updated": 1551451593,
+        "updated": 1551451756,
         "cssVariable": "deep-purple",
         "publishing": {
             "git": {
