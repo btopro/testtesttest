@@ -128,10 +128,10 @@
             "order": 0,
             "parent": "item-7bea39d0-083b-481b-afb1-774442303979",
             "title": "Chuck rocks",
-            "description": "My grfdssdfdsfdsfdsfdsfdsfdsfeat new content!",
+            "description": "",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1551453101,
+                "updated": 1551453913,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/test\/files\/IMG_20190127_153429.jpg",
