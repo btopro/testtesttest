@@ -1,21 +1,21 @@
 {
     "id": "0a69b261-be07-4df2-a0c7-72577ef5825d",
-    "title": "Lecture 100 : Art",
+    "title": "DEVDEVDEV",
     "author": "",
     "description": "A lecture",
     "license": "by-sa",
     "metadata": {
         "siteName": "testtesttest",
         "theme": {
-            "element": "haxcms-slide-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/haxcms-slide-theme.js",
-            "name": "Slide player"
+            "element": "learn-two-theme",
+            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
+            "name": "Learn2"
         },
         "image": "assets\/banner.jpg",
-        "hexCode": "#7e00d8",
+        "hexCode": "#429d00",
         "created": 1550610491,
-        "updated": 1551461433,
-        "cssVariable": "deep-purple",
+        "updated": 1552248086,
+        "cssVariable": "light-green",
         "publishing": {
             "git": {
                 "vendor": "github",
