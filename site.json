@@ -14,7 +14,7 @@
         "image": "assets\/banner.jpg",
         "hexCode": "#429d00",
         "created": 1550610491,
-        "updated": 1552248086,
+        "updated": 1552334492,
         "cssVariable": "light-green",
         "publishing": {
             "git": {
@@ -65,13 +65,13 @@
             "id": "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
             "indent": 0,
             "location": "pages\/wait-no\/index.html",
-            "order": 9,
+            "order": 0,
             "parent": null,
             "title": "Home",
             "description": "HeadingA paragraph of text would go here to describe the work.",
             "metadata": {
                 "created": 1550610491,
-                "updated": 1551376527,
+                "updated": 1552334492,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
@@ -88,13 +88,13 @@
             "id": "item-e9263476-0a86-402c-bfb4-7cd5624e2d65",
             "indent": 1,
             "location": "pages\/someotherplace-1\/index.html",
-            "order": 1,
+            "order": 0,
             "parent": "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
             "title": "Things",
             "description": "My great new content!Stuff and things here",
             "metadata": {
                 "created": 1550610510,
-                "updated": 1551383701
+                "updated": 1552334492
             }
         },
         {
@@ -107,20 +107,20 @@
             "description": "My great new content!Header",
             "metadata": {
                 "created": 1550610519,
-                "updated": 1551370910
+                "updated": 1552334492
             }
         },
         {
             "id": "item-2bcb5f52-b65c-4e6b-a0c9-5b69212e34e1",
             "indent": 1,
             "location": "pages\/whatever\/index.html",
-            "order": 0,
+            "order": 1,
             "parent": "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
             "title": "whatever",
             "description": "My great new content!",
             "metadata": {
                 "created": 1550610519,
-                "updated": 1551370910
+                "updated": 1552334492
             }
         },
         {
@@ -133,7 +133,7 @@
             "description": "",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1551453913,
+                "updated": 1552334492,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/test\/files\/IMG_20190127_153429.jpg",
@@ -156,7 +156,7 @@
             "description": "My great new content!Stuff and things",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1551370910
+                "updated": 1552334492
             }
         },
         {
@@ -176,28 +176,28 @@
             "id": "item-2ee1c1dd-02fa-4860-b9f4-703c5bde0d94",
             "indent": 0,
             "location": "pages\/some-new-thingf\/index.html",
-            "order": 8,
+            "order": 1,
             "parent": null,
             "title": "Changedf1",
             "description": "My great new content!",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550841355,
-                "updated": 1551381891
+                "updated": 1552334492
             }
         },
         {
             "id": "item-20e1083e-48c5-4624-b7b0-d4a8818ea936",
             "indent": 0,
             "location": "pages\/another-here-cool\/index.html",
-            "order": 7,
+            "order": 2,
             "parent": null,
             "title": "Cool here",
             "description": "My great new content!dsfdfsdfsdfsdfsHeaderdsfsfsfsdfsdfdsfdfsSTuff    ffdsfsfsfsfsfsfsdfsd    fff    This, is an image",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550845398,
-                "updated": 1551377032,
+                "updated": 1552334492,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
@@ -230,42 +230,42 @@
             "id": "item-f03179e8-acbb-40d8-bd80-3bfd455a04ff",
             "indent": 0,
             "location": "pages\/fff\/index.html",
-            "order": 6,
+            "order": 3,
             "parent": null,
             "title": "fff",
             "description": "My great new content!dssdffssdfdfsdfsdfsdfsdfs",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550845651,
-                "updated": 1551370910
+                "updated": 1552334492
             }
         },
         {
             "id": "item-c06bd6d3-5451-4e16-92b6-46515b67cd62",
             "indent": 0,
             "location": "pages\/stuff-1\/index.html",
-            "order": 5,
+            "order": 4,
             "parent": null,
             "title": "stuff",
             "description": "Ex uno Plures",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550859299,
-                "updated": 1551377044
+                "updated": 1552334492
             }
         },
         {
             "id": "item-8ae09ccf-936c-4377-8299-fc743f799a03",
             "indent": 0,
             "location": "pages\/nothing-but-net\/index.html",
-            "order": 4,
+            "order": 5,
             "parent": null,
             "title": "NOTHING BUT NET.. sorta",
             "description": "My great new content!",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550867588,
-                "updated": 1551389476,
+                "updated": 1552334492,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
@@ -282,54 +282,54 @@
             "id": "item-34004936-b7ed-47aa-8b95-0015fc7c1562",
             "indent": 0,
             "location": "pages\/dfsdfs-1\/index.html",
-            "order": 3,
+            "order": 6,
             "parent": null,
             "title": "dfsdfs",
             "description": "Ex uno Plures",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1551369562,
-                "updated": 1551451107
+                "updated": 1552334492
             }
         },
         {
             "id": "item-a03c1a93-882e-4c58-a367-9c900657f990",
             "indent": 0,
             "location": "pages\/ddd12121\/index.html",
-            "order": 2,
+            "order": 7,
             "parent": null,
             "title": "123131ddd",
             "description": "",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1551369604,
-                "updated": 1551370910
+                "updated": 1552334492
             }
         },
         {
             "id": "item-dfb36699-3056-4b73-9d04-305f0c0071b7",
-            "indent": 0,
+            "indent": 4,
             "location": "pages\/ghfhfghfhfhfh\/index.html",
-            "order": 1,
-            "parent": null,
+            "order": 0,
+            "parent": "item-9595cbd1-ea0d-4ea1-8bc9-6d0938ecaa70",
             "title": "A real title please",
             "description": "Ex uno Plures This is where new data comes from.",
             "metadata": {
                 "created": 1551369640,
-                "updated": 1552334474
+                "updated": 1552334492
             }
         },
         {
             "id": "item-0cbe3e34-18cc-48a8-9b16-4f0e7b327988",
             "indent": 0,
             "location": "pages\/itissomuchmore\/index.html",
-            "order": 0,
+            "order": 8,
             "parent": null,
             "title": "More then that though",
             "description": "Ex uno Plures",
             "metadata": {
                 "created": 1551369680,
-                "updated": 1551452571,
+                "updated": 1552334492,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
@@ -352,7 +352,7 @@
             "description": "1`",
             "metadata": {
                 "created": 1551370134,
-                "updated": 1551377071
+                "updated": 1552334492
             }
         },
         {
@@ -365,7 +365,7 @@
             "description": "",
             "metadata": {
                 "created": 1551370571,
-                "updated": 1551452784
+                "updated": 1552334492
             }
         },
         {
@@ -378,7 +378,7 @@
             "description": "",
             "metadata": {
                 "created": 1551370571,
-                "updated": 1551370910
+                "updated": 1552334492
             }
         },
         {
@@ -391,7 +391,7 @@
             "description": "",
             "metadata": {
                 "created": 1551370910,
-                "updated": 1551370910
+                "updated": 1552334492
             }
         },
         {
@@ -404,7 +404,7 @@
             "description": "Ex uno PluresEx uno PluresEx uno PluresEx uno PluresEx uno PluresEx uno Plures",
             "metadata": {
                 "created": 1551370910,
-                "updated": 1551377062
+                "updated": 1552334492
             }
         }
     ]
