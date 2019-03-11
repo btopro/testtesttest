@@ -7,14 +7,14 @@
     "metadata": {
         "siteName": "testtesttest",
         "theme": {
-            "element": "haxcms-slide-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/haxcms-slide-theme.js",
-            "name": "Slide player"
+            "element": "outline-player",
+            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
+            "name": "Outline player"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#429d00",
         "created": 1550610491,
-        "updated": 1552334528,
+        "updated": 1552334590,
         "cssVariable": "light-green",
         "publishing": {
             "git": {
