@@ -64,14 +64,14 @@
         {
             "id": "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
             "indent": 0,
-            "location": "pages\/wait-no\/index.html",
+            "location": "pages\/home\/index.html",
             "order": 0,
             "parent": null,
             "title": "Home",
             "description": "HeadingA paragraph of text would go here to describe the work.",
             "metadata": {
                 "created": 1550610491,
-                "updated": 1552334492,
+                "updated": 1552334654,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
