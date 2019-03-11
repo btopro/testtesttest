@@ -6,6 +6,7 @@
     "license": "by-sa",
     "metadata": {
         "siteName": "testtesttest",
+        "domain": "https:\/\/btopro.github.io\/testtesttest",
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
@@ -237,7 +238,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550845651,
-                "updated": 1552342645
+                "updated": 1552342707
             }
         },
         {
