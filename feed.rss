@@ -6,215 +6,216 @@
     <description>A lecture</description>
     <copyright>Copyright (C) 2019 https://btopro.github.io/testtesttest</copyright>
     <language>en-us</language>
+    <lastBuildDate>1552334610</lastBuildDate>
     <atom:link href="https://btopro.github.io/testtesttest/feed.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>Home</title>
-      <link>https://btopro.github.io/testtesttest/pages/home/index.html</link>
+      <link>https://btopro.github.io/testtesttest/home</link>
       <description>
           <![CDATA[ HeadingA paragraph of text would go here to describe the work. ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/home/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/home</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Things</title>
-      <link>https://btopro.github.io/testtesttest/pages/someotherplace-1/index.html</link>
+      <link>https://btopro.github.io/testtesttest/someotherplace-1</link>
       <description>
           <![CDATA[ My great new content!Stuff and things here ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/someotherplace-1/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/someotherplace-1</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>stuffddd</title>
-      <link>https://btopro.github.io/testtesttest/pages/stuff/index.html</link>
+      <link>https://btopro.github.io/testtesttest/stuff</link>
       <description>
           <![CDATA[ My great new content!Header ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/stuff/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/stuff</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>whatever</title>
-      <link>https://btopro.github.io/testtesttest/pages/whatever/index.html</link>
+      <link>https://btopro.github.io/testtesttest/whatever</link>
       <description>
           <![CDATA[ My great new content! ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/whatever/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/whatever</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chuck rocks</title>
-      <link>https://btopro.github.io/testtesttest/pages/chuck-band/index.html</link>
+      <link>https://btopro.github.io/testtesttest/chuck-band</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/chuck-band/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/chuck-band</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>what</title>
-      <link>https://btopro.github.io/testtesttest/pages/what/index.html</link>
+      <link>https://btopro.github.io/testtesttest/what</link>
       <description>
           <![CDATA[ My great new content!Stuff and things ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/what/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/what</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ever</title>
-      <link>https://btopro.github.io/testtesttest/pages/ever/index.html</link>
+      <link>https://btopro.github.io/testtesttest/ever</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/ever/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/ever</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Changedf1</title>
-      <link>https://btopro.github.io/testtesttest/pages/some-new-thingf/index.html</link>
+      <link>https://btopro.github.io/testtesttest/some-new-thingf</link>
       <description>
           <![CDATA[ My great new content! ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/some-new-thingf/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/some-new-thingf</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cool here</title>
-      <link>https://btopro.github.io/testtesttest/pages/another-here-cool/index.html</link>
+      <link>https://btopro.github.io/testtesttest/another-here-cool</link>
       <description>
           <![CDATA[ My great new content!dsfdfsdfsdfsdfssdfsdfdsfdfsSTuff    ffdsfsfsfsfsfsfsdfsd    fff    This, is an imageHAXcmsloading ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/another-here-cool/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/another-here-cool</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>fff</title>
-      <link>https://btopro.github.io/testtesttest/pages/fff/index.html</link>
+      <link>https://btopro.github.io/testtesttest/fff</link>
       <description>
           <![CDATA[ My great new content!dssdffssdfdfsdfsdfsdfsdfsHeaderHeaderHeader ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/fff/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/fff</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>stuff</title>
-      <link>https://btopro.github.io/testtesttest/pages/stuff-1/index.html</link>
+      <link>https://btopro.github.io/testtesttest/stuff-1</link>
       <description>
           <![CDATA[ Ex uno Plures ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/stuff-1/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/stuff-1</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NOTHING BUT NET.. sorta</title>
-      <link>https://btopro.github.io/testtesttest/pages/nothing-but-net/index.html</link>
+      <link>https://btopro.github.io/testtesttest/nothing-but-net</link>
       <description>
           <![CDATA[ My great new content! ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/nothing-but-net/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/nothing-but-net</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/pages/dfsdfs-1/index.html</link>
+      <link>https://btopro.github.io/testtesttest/dfsdfs-1</link>
       <description>
           <![CDATA[ Ex uno Plures ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/dfsdfs-1/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/dfsdfs-1</guid>
       <pubDate>Sun, 11 Mar 9562 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>123131ddd</title>
-      <link>https://btopro.github.io/testtesttest/pages/ddd12121/index.html</link>
+      <link>https://btopro.github.io/testtesttest/ddd12121</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/ddd12121/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/ddd12121</guid>
       <pubDate>Thu, 11 Mar 9604 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>A real title please</title>
-      <link>https://btopro.github.io/testtesttest/pages/ghfhfghfhfhfh/index.html</link>
+      <link>https://btopro.github.io/testtesttest/ghfhfghfhfhfh</link>
       <description>
           <![CDATA[ Ex uno Plures This is where new data comes from. ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/ghfhfghfhfhfh/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/ghfhfghfhfhfh</guid>
       <pubDate>Sun, 11 Mar 9640 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>More then that though</title>
-      <link>https://btopro.github.io/testtesttest/pages/itissomuchmore/index.html</link>
+      <link>https://btopro.github.io/testtesttest/itissomuchmore</link>
       <description>
           <![CDATA[ Ex uno Plures ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/itissomuchmore/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/itissomuchmore</guid>
       <pubDate>Mon, 11 Mar 9680 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/pages/dfsdfs/index.html</link>
+      <link>https://btopro.github.io/testtesttest/dfsdfs</link>
       <description>
           <![CDATA[ 1` ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/dfsdfs/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/dfsdfs</guid>
       <pubDate>Thu, 11 Mar 0134 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/pages/dfsdfs-2/index.html</link>
+      <link>https://btopro.github.io/testtesttest/dfsdfs-2</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/dfsdfs-2/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/dfsdfs-2</guid>
       <pubDate>Mon, 11 Mar 0571 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/pages/dfsdfs-3/index.html</link>
+      <link>https://btopro.github.io/testtesttest/dfsdfs-3</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/dfsdfs-3/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/dfsdfs-3</guid>
       <pubDate>Mon, 11 Mar 0571 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/pages/dfsdfs-4/index.html</link>
+      <link>https://btopro.github.io/testtesttest/dfsdfs-4</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/dfsdfs-4/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/dfsdfs-4</guid>
       <pubDate>Tue, 11 Mar 0910 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/pages/dfsdfs-5/index.html</link>
+      <link>https://btopro.github.io/testtesttest/dfsdfs-5</link>
       <description>
           <![CDATA[ Ex uno PluresEx uno PluresEx uno PluresEx uno PluresEx uno PluresEx uno Plures ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/pages/dfsdfs-5/index.html</guid>
+      <guid>https://btopro.github.io/testtesttest/dfsdfs-5</guid>
       <pubDate>Tue, 11 Mar 0910 15:51:37 +0000</pubDate>
     </item>
   </channel>
