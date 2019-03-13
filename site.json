@@ -1,12 +1,13 @@
 {
     "id": "0a69b261-be07-4df2-a0c7-72577ef5825d",
-    "title": "DEVDEVDEV",
+    "title": "DEV DEV DEV",
     "author": "Bryan Ollendyke",
     "description": "A lecture",
     "license": "by-sa",
     "metadata": {
         "siteName": "testtesttest",
-        "domain": "https:\/\/btopro.github.io\/testtesttest",
+        "created": 1550610491,
+        "updated": 1552452067,
         "theme": {
             "element": "haxcms-slide-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/haxcms-slide-theme.js",
@@ -14,8 +15,6 @@
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#429d00",
-        "created": 1550610491,
-        "updated": 1552452067,
         "cssVariable": "light-green",
         "publishing": {
             "git": {
@@ -58,7 +57,7 @@
             "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
             "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js"
         },
-        "lastPublished": 1552452090,
+        "lastPublished": 1552454830,
         "icon": "icons:save"
     },
     "items": [
