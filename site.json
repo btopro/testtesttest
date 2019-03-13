@@ -8,14 +8,14 @@
         "siteName": "testtesttest",
         "domain": "https:\/\/btopro.github.io\/testtesttest",
         "theme": {
-            "element": "learn-two-theme",
-            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
-            "name": "Learn2"
+            "element": "haxcms-slide-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/haxcms-slide-theme.js",
+            "name": "Slide player"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#429d00",
         "created": 1550610491,
-        "updated": 1552334610,
+        "updated": 1552452067,
         "cssVariable": "light-green",
         "publishing": {
             "git": {
