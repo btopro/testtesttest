@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>DEVDEVDEV</title>
-  <link href="https://btopro.github.io/testtesttest/atom.xml" rel="self" />
+  <title>DEV DEV DEV</title>
+  <link href="/atom.xml" rel="self" />
   <subtitle>A lecture</subtitle>
-  <updated>2019-03-11T20:03:30+00:00</updated>
+  <updated>2019-03-13T04:41:07+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
-  <id>https://btopro.github.io/testtesttest/feed</id>
+  <id>/feed</id>
   <entry>
     <title>Home</title>
-    <id>https://btopro.github.io/testtesttest/home</id>
-    <updated>2019-03-11T20:04:14+00:00</updated>
+    <id>/home</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-19T21:08:11+00:00</published>
     <summary>HeadingA paragraph of text would go here to describe the work.</summary>
-    <link href="https://btopro.github.io/testtesttest/home"/>
+    <link href="/home"/>
     
     <content type="html">
       <![CDATA[ HeadingA paragraph of text would go here to describe the work. ]]>
@@ -22,11 +22,11 @@
   </entry>
   <entry>
     <title>Things</title>
-    <id>https://btopro.github.io/testtesttest/someotherplace-1</id>
-    <updated>2019-03-12T01:20:46+00:00</updated>
+    <id>/someotherplace-1</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-19T21:08:30+00:00</published>
     <summary>My great new content!Stuff and things herestuff.</summary>
-    <link href="https://btopro.github.io/testtesttest/someotherplace-1"/>
+    <link href="/someotherplace-1"/>
     
     <content type="html">
       <![CDATA[ My great new content!Stuff and things herestuff. ]]>
@@ -34,11 +34,11 @@
   </entry>
   <entry>
     <title>stuffddd</title>
-    <id>https://btopro.github.io/testtesttest/stuff</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/stuff</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-19T21:08:39+00:00</published>
     <summary>My great new content!Header</summary>
-    <link href="https://btopro.github.io/testtesttest/stuff"/>
+    <link href="/stuff"/>
     
     <content type="html">
       <![CDATA[ My great new content!Header ]]>
@@ -46,11 +46,11 @@
   </entry>
   <entry>
     <title>whatever</title>
-    <id>https://btopro.github.io/testtesttest/whatever</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/whatever</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-19T21:08:39+00:00</published>
     <summary>My great new content!</summary>
-    <link href="https://btopro.github.io/testtesttest/whatever"/>
+    <link href="/whatever"/>
     
     <content type="html">
       <![CDATA[ My great new content! ]]>
@@ -58,11 +58,11 @@
   </entry>
   <entry>
     <title>Chuck rocks</title>
-    <id>https://btopro.github.io/testtesttest/chuck-band</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/chuck-band</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-19T21:10:05+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/chuck-band"/>
+    <link href="/chuck-band"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -70,11 +70,11 @@
   </entry>
   <entry>
     <title>what</title>
-    <id>https://btopro.github.io/testtesttest/what</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/what</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-19T21:10:05+00:00</published>
     <summary>My great new content!Stuff and things</summary>
-    <link href="https://btopro.github.io/testtesttest/what"/>
+    <link href="/what"/>
     
     <content type="html">
       <![CDATA[ My great new content!Stuff and things ]]>
@@ -82,11 +82,11 @@
   </entry>
   <entry>
     <title>ever</title>
-    <id>https://btopro.github.io/testtesttest/ever</id>
+    <id>/ever</id>
     <updated>2019-02-19T21:10:05+00:00</updated>
     <published>2019-02-19T21:10:05+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/ever"/>
+    <link href="/ever"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -94,11 +94,11 @@
   </entry>
   <entry>
     <title>Changedf1</title>
-    <id>https://btopro.github.io/testtesttest/some-new-thingf</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/some-new-thingf</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-22T13:15:55+00:00</published>
     <summary>My great new content!</summary>
-    <link href="https://btopro.github.io/testtesttest/some-new-thingf"/>
+    <link href="/some-new-thingf"/>
     
     <content type="html">
       <![CDATA[ My great new content! ]]>
@@ -106,11 +106,11 @@
   </entry>
   <entry>
     <title>Cool here</title>
-    <id>https://btopro.github.io/testtesttest/another-here-cool</id>
-    <updated>2019-03-11T22:08:42+00:00</updated>
+    <id>/another-here-cool</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-22T14:23:18+00:00</published>
     <summary>My great new content!dsfdfsdfsdfsdfssdfsdfdsfdfsSTuff    ffdsfsfsfsfsfsfsdfsd    fff    This, is an imageHAXcmsloading</summary>
-    <link href="https://btopro.github.io/testtesttest/another-here-cool"/>
+    <link href="/another-here-cool"/>
     
     <content type="html">
       <![CDATA[ My great new content!dsfdfsdfsdfsdfssdfsdfdsfdfsSTuff    ffdsfsfsfsfsfsfsdfsd    fff    This, is an imageHAXcmsloading ]]>
@@ -118,11 +118,11 @@
   </entry>
   <entry>
     <title>fff</title>
-    <id>https://btopro.github.io/testtesttest/fff</id>
-    <updated>2019-03-11T22:56:09+00:00</updated>
+    <id>/fff</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-22T14:27:31+00:00</published>
     <summary>My great new content!dssdffssdfdfsdfsdfsdfsdfsHeaderHeaderHeader</summary>
-    <link href="https://btopro.github.io/testtesttest/fff"/>
+    <link href="/fff"/>
     
     <content type="html">
       <![CDATA[ My great new content!dssdffssdfdfsdfsdfsdfsdfsHeaderHeaderHeader ]]>
@@ -130,11 +130,11 @@
   </entry>
   <entry>
     <title>stuff</title>
-    <id>https://btopro.github.io/testtesttest/stuff-1</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/stuff-1</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-22T18:14:59+00:00</published>
     <summary>Ex uno Plures</summary>
-    <link href="https://btopro.github.io/testtesttest/stuff-1"/>
+    <link href="/stuff-1"/>
     
     <content type="html">
       <![CDATA[ Ex uno Plures ]]>
@@ -142,11 +142,11 @@
   </entry>
   <entry>
     <title>NOTHING BUT NET.. sorta</title>
-    <id>https://btopro.github.io/testtesttest/nothing-but-net</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/nothing-but-net</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-22T20:33:08+00:00</published>
     <summary>My great new content!</summary>
-    <link href="https://btopro.github.io/testtesttest/nothing-but-net"/>
+    <link href="/nothing-but-net"/>
     
     <content type="html">
       <![CDATA[ My great new content! ]]>
@@ -154,11 +154,11 @@
   </entry>
   <entry>
     <title>dfsdfs</title>
-    <id>https://btopro.github.io/testtesttest/dfsdfs-1</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/dfsdfs-1</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-28T15:59:22+00:00</published>
     <summary>Ex uno Plures</summary>
-    <link href="https://btopro.github.io/testtesttest/dfsdfs-1"/>
+    <link href="/dfsdfs-1"/>
     
     <content type="html">
       <![CDATA[ Ex uno Plures ]]>
@@ -166,11 +166,11 @@
   </entry>
   <entry>
     <title>123131ddd</title>
-    <id>https://btopro.github.io/testtesttest/ddd12121</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/ddd12121</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-28T16:00:04+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/ddd12121"/>
+    <link href="/ddd12121"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -178,11 +178,11 @@
   </entry>
   <entry>
     <title>A real title please</title>
-    <id>https://btopro.github.io/testtesttest/ghfhfghfhfhfh</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/ghfhfghfhfhfh</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-28T16:00:40+00:00</published>
     <summary>Ex uno Plures This is where new data comes from.</summary>
-    <link href="https://btopro.github.io/testtesttest/ghfhfghfhfhfh"/>
+    <link href="/ghfhfghfhfhfh"/>
     
     <content type="html">
       <![CDATA[ Ex uno Plures This is where new data comes from. ]]>
@@ -190,11 +190,11 @@
   </entry>
   <entry>
     <title>More then that though</title>
-    <id>https://btopro.github.io/testtesttest/itissomuchmore</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/itissomuchmore</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-28T16:01:20+00:00</published>
     <summary>Ex uno Plures</summary>
-    <link href="https://btopro.github.io/testtesttest/itissomuchmore"/>
+    <link href="/itissomuchmore"/>
     
     <content type="html">
       <![CDATA[ Ex uno Plures ]]>
@@ -202,11 +202,11 @@
   </entry>
   <entry>
     <title>dfsdfs</title>
-    <id>https://btopro.github.io/testtesttest/dfsdfs</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/dfsdfs</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-28T16:08:54+00:00</published>
     <summary>1`</summary>
-    <link href="https://btopro.github.io/testtesttest/dfsdfs"/>
+    <link href="/dfsdfs"/>
     
     <content type="html">
       <![CDATA[ 1` ]]>
@@ -214,11 +214,11 @@
   </entry>
   <entry>
     <title>dfsdfs</title>
-    <id>https://btopro.github.io/testtesttest/dfsdfs-2</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/dfsdfs-2</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-28T16:16:11+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/dfsdfs-2"/>
+    <link href="/dfsdfs-2"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -226,11 +226,11 @@
   </entry>
   <entry>
     <title>dfsdfs</title>
-    <id>https://btopro.github.io/testtesttest/dfsdfs-3</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/dfsdfs-3</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-28T16:16:11+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/dfsdfs-3"/>
+    <link href="/dfsdfs-3"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -238,11 +238,11 @@
   </entry>
   <entry>
     <title>dfsdfs</title>
-    <id>https://btopro.github.io/testtesttest/dfsdfs-4</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/dfsdfs-4</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-28T16:21:50+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/dfsdfs-4"/>
+    <link href="/dfsdfs-4"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -250,14 +250,26 @@
   </entry>
   <entry>
     <title>dfsdfs</title>
-    <id>https://btopro.github.io/testtesttest/dfsdfs-5</id>
-    <updated>2019-03-11T20:01:32+00:00</updated>
+    <id>/dfsdfs-5</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
     <published>2019-02-28T16:21:50+00:00</published>
     <summary>Ex uno PluresEx uno PluresEx uno PluresEx uno PluresEx uno PluresEx uno Plures</summary>
-    <link href="https://btopro.github.io/testtesttest/dfsdfs-5"/>
+    <link href="/dfsdfs-5"/>
     
     <content type="html">
       <![CDATA[ Ex uno PluresEx uno PluresEx uno PluresEx uno PluresEx uno PluresEx uno Plures ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Another up top</title>
+    <id>/another-up-top</id>
+    <updated>2019-03-13T21:20:55+00:00</updated>
+    <published>2019-03-13T21:20:55+00:00</published>
+    <summary></summary>
+    <link href="/another-up-top"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>

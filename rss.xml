@@ -1,222 +1,232 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>DEVDEVDEV</title>
-    <link>https://btopro.github.io/testtesttest/rss.xml</link>
+    <title>DEV DEV DEV</title>
+    <link>/rss.xml</link>
     <description>A lecture</description>
-    <copyright>Copyright (C) 2019 https://btopro.github.io/testtesttest</copyright>
+    <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 20:03:30 +0000</lastBuildDate>
-    <atom:link href="https://btopro.github.io/testtesttest/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Wed, 13 Mar 2019 04:41:07 +0000</lastBuildDate>
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Home</title>
-      <link>https://btopro.github.io/testtesttest/home</link>
+      <link>/home</link>
       <description>
           <![CDATA[ HeadingA paragraph of text would go here to describe the work. ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/home</guid>
+      <guid>/home</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Things</title>
-      <link>https://btopro.github.io/testtesttest/someotherplace-1</link>
+      <link>/someotherplace-1</link>
       <description>
           <![CDATA[ My great new content!Stuff and things herestuff. ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/someotherplace-1</guid>
+      <guid>/someotherplace-1</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>stuffddd</title>
-      <link>https://btopro.github.io/testtesttest/stuff</link>
+      <link>/stuff</link>
       <description>
           <![CDATA[ My great new content!Header ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/stuff</guid>
+      <guid>/stuff</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>whatever</title>
-      <link>https://btopro.github.io/testtesttest/whatever</link>
+      <link>/whatever</link>
       <description>
           <![CDATA[ My great new content! ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/whatever</guid>
+      <guid>/whatever</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chuck rocks</title>
-      <link>https://btopro.github.io/testtesttest/chuck-band</link>
+      <link>/chuck-band</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/chuck-band</guid>
+      <guid>/chuck-band</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>what</title>
-      <link>https://btopro.github.io/testtesttest/what</link>
+      <link>/what</link>
       <description>
           <![CDATA[ My great new content!Stuff and things ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/what</guid>
+      <guid>/what</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ever</title>
-      <link>https://btopro.github.io/testtesttest/ever</link>
+      <link>/ever</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/ever</guid>
+      <guid>/ever</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Changedf1</title>
-      <link>https://btopro.github.io/testtesttest/some-new-thingf</link>
+      <link>/some-new-thingf</link>
       <description>
           <![CDATA[ My great new content! ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/some-new-thingf</guid>
+      <guid>/some-new-thingf</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cool here</title>
-      <link>https://btopro.github.io/testtesttest/another-here-cool</link>
+      <link>/another-here-cool</link>
       <description>
           <![CDATA[ My great new content!dsfdfsdfsdfsdfssdfsdfdsfdfsSTuff    ffdsfsfsfsfsfsfsdfsd    fff    This, is an imageHAXcmsloading ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/another-here-cool</guid>
+      <guid>/another-here-cool</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>fff</title>
-      <link>https://btopro.github.io/testtesttest/fff</link>
+      <link>/fff</link>
       <description>
           <![CDATA[ My great new content!dssdffssdfdfsdfsdfsdfsdfsHeaderHeaderHeader ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/fff</guid>
+      <guid>/fff</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>stuff</title>
-      <link>https://btopro.github.io/testtesttest/stuff-1</link>
+      <link>/stuff-1</link>
       <description>
           <![CDATA[ Ex uno Plures ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/stuff-1</guid>
+      <guid>/stuff-1</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NOTHING BUT NET.. sorta</title>
-      <link>https://btopro.github.io/testtesttest/nothing-but-net</link>
+      <link>/nothing-but-net</link>
       <description>
           <![CDATA[ My great new content! ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/nothing-but-net</guid>
+      <guid>/nothing-but-net</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/dfsdfs-1</link>
+      <link>/dfsdfs-1</link>
       <description>
           <![CDATA[ Ex uno Plures ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/dfsdfs-1</guid>
-      <pubDate>Mon, 12 Mar 9562 15:51:36 +0000</pubDate>
+      <guid>/dfsdfs-1</guid>
+      <pubDate>Tue, 13 Mar 9562 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>123131ddd</title>
-      <link>https://btopro.github.io/testtesttest/ddd12121</link>
+      <link>/ddd12121</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/ddd12121</guid>
-      <pubDate>Fri, 12 Mar 9604 15:51:36 +0000</pubDate>
+      <guid>/ddd12121</guid>
+      <pubDate>Sat, 13 Mar 9604 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>A real title please</title>
-      <link>https://btopro.github.io/testtesttest/ghfhfghfhfhfh</link>
+      <link>/ghfhfghfhfhfh</link>
       <description>
           <![CDATA[ Ex uno Plures This is where new data comes from. ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/ghfhfghfhfhfh</guid>
-      <pubDate>Mon, 12 Mar 9640 15:51:36 +0000</pubDate>
+      <guid>/ghfhfghfhfhfh</guid>
+      <pubDate>Tue, 13 Mar 9640 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>More then that though</title>
-      <link>https://btopro.github.io/testtesttest/itissomuchmore</link>
+      <link>/itissomuchmore</link>
       <description>
           <![CDATA[ Ex uno Plures ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/itissomuchmore</guid>
-      <pubDate>Tue, 12 Mar 9680 15:51:36 +0000</pubDate>
+      <guid>/itissomuchmore</guid>
+      <pubDate>Wed, 13 Mar 9680 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/dfsdfs</link>
+      <link>/dfsdfs</link>
       <description>
           <![CDATA[ 1` ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/dfsdfs</guid>
-      <pubDate>Fri, 12 Mar 0134 15:51:37 +0000</pubDate>
+      <guid>/dfsdfs</guid>
+      <pubDate>Sat, 13 Mar 0134 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/dfsdfs-2</link>
+      <link>/dfsdfs-2</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/dfsdfs-2</guid>
-      <pubDate>Tue, 12 Mar 0571 15:51:37 +0000</pubDate>
+      <guid>/dfsdfs-2</guid>
+      <pubDate>Wed, 13 Mar 0571 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/dfsdfs-3</link>
+      <link>/dfsdfs-3</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/dfsdfs-3</guid>
-      <pubDate>Tue, 12 Mar 0571 15:51:37 +0000</pubDate>
+      <guid>/dfsdfs-3</guid>
+      <pubDate>Wed, 13 Mar 0571 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/dfsdfs-4</link>
+      <link>/dfsdfs-4</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/dfsdfs-4</guid>
-      <pubDate>Wed, 12 Mar 0910 15:51:37 +0000</pubDate>
+      <guid>/dfsdfs-4</guid>
+      <pubDate>Thu, 13 Mar 0910 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
-      <link>https://btopro.github.io/testtesttest/dfsdfs-5</link>
+      <link>/dfsdfs-5</link>
       <description>
           <![CDATA[ Ex uno PluresEx uno PluresEx uno PluresEx uno PluresEx uno PluresEx uno Plures ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/dfsdfs-5</guid>
-      <pubDate>Wed, 12 Mar 0910 15:51:37 +0000</pubDate>
+      <guid>/dfsdfs-5</guid>
+      <pubDate>Thu, 13 Mar 0910 15:51:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Another up top</title>
+      <link>/another-up-top</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/another-up-top</guid>
+      <pubDate>Sat, 13 Mar 2055 15:52:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
