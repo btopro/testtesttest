@@ -110,7 +110,17 @@
             "description": "New:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses \/ Educational Material: \u00a0Coursera: Python for Everybody (Python) \u00a0Coursera: Web Applications",
             "metadata": {
                 "created": 1552651265,
-                "updated": 1552651283
+                "updated": 1552651283,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
+                        "url": "files\/csev_ian_dolphin_small.jpg",
+                        "type": "image\/jpeg",
+                        "name": "csev_ian_dolphin_small.jpg",
+                        "size": 18507
+                    }
+                ]
             }
         }
     ]
