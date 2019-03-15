@@ -1,21 +1,21 @@
 {
     "id": "0a69b261-be07-4df2-a0c7-72577ef5825d",
-    "title": "DEV DEV DEV",
+    "title": "Py4E",
     "author": "Bryan Ollendyke",
-    "description": "A lecture",
+    "description": "Python for everyone!",
     "license": "by-sa",
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1552651172,
+        "updated": 1552651222,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
-            "name": "Dev theme"
+            "name": "Basic site"
         },
         "image": "assets\/banner.jpg",
-        "hexCode": "#429d00",
-        "cssVariable": "light-green",
+        "hexCode": "#929100",
+        "cssVariable": "yellow",
         "publishing": {
             "git": {
                 "vendor": "github",
