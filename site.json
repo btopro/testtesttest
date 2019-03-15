@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1552650809,
+        "updated": 1552650822,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
@@ -71,7 +71,7 @@
             "description": "HeadingA paragraph of text would go here to describe the work.",
             "metadata": {
                 "created": 1550610491,
-                "updated": 1552650809,
+                "updated": 1552650822,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
@@ -94,7 +94,7 @@
             "description": "My great new content!Stuff and things herestuff.",
             "metadata": {
                 "created": 1550610510,
-                "updated": 1552650809
+                "updated": 1552650822
             }
         },
         {
@@ -107,7 +107,7 @@
             "description": "My great new content!Header",
             "metadata": {
                 "created": 1550610519,
-                "updated": 1552650809
+                "updated": 1552650822
             }
         },
         {
@@ -120,7 +120,7 @@
             "description": "",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1552650809,
+                "updated": 1552650822,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/test\/files\/IMG_20190127_153429.jpg",
@@ -143,7 +143,7 @@
             "description": "My great new content!Stuff and things",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1552650809
+                "updated": 1552650822
             }
         },
         {
@@ -170,7 +170,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550841355,
-                "updated": 1552650809
+                "updated": 1552650822
             }
         },
         {
@@ -184,7 +184,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550845398,
-                "updated": 1552650809,
+                "updated": 1552650822,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
@@ -224,7 +224,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550845651,
-                "updated": 1552650792,
+                "updated": 1552650822,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
@@ -241,28 +241,28 @@
             "id": "item-c06bd6d3-5451-4e16-92b6-46515b67cd62",
             "indent": 0,
             "location": "pages\/stuff-1\/index.html",
-            "order": 7,
+            "order": 8,
             "parent": null,
             "title": "dfsdfs",
             "description": "Ex uno Plures",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550859299,
-                "updated": 1552650809
+                "updated": 1552650822
             }
         },
         {
             "id": "item-8ae09ccf-936c-4377-8299-fc743f799a03",
             "indent": 0,
             "location": "pages\/nothing-but-net\/index.html",
-            "order": 8,
+            "order": 9,
             "parent": null,
             "title": "NOTHING BUT NET.. sorta",
             "description": "My great new content!",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550867588,
-                "updated": 1552650809,
+                "updated": 1552650822,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
@@ -279,14 +279,14 @@
             "id": "item-34004936-b7ed-47aa-8b95-0015fc7c1562",
             "indent": 0,
             "location": "pages\/dfsdfs-1\/index.html",
-            "order": 9,
+            "order": 10,
             "parent": null,
             "title": "dfsdfs",
             "description": "Ex uno Plures",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1551369562,
-                "updated": 1552650809
+                "updated": 1552650822
             }
         },
         {
@@ -305,28 +305,28 @@
         },
         {
             "id": "item-dfb36699-3056-4b73-9d04-305f0c0071b7",
-            "indent": 4,
+            "indent": 0,
             "location": "pages\/ghfhfghfhfhfh\/index.html",
-            "order": 0,
-            "parent": "item-9595cbd1-ea0d-4ea1-8bc9-6d0938ecaa70",
+            "order": 15,
+            "parent": null,
             "title": "A real title please",
             "description": "Ex uno Plures This is where new data comes from.",
             "metadata": {
                 "created": 1551369640,
-                "updated": 1552650809
+                "updated": 1552650822
             }
         },
         {
             "id": "item-0cbe3e34-18cc-48a8-9b16-4f0e7b327988",
             "indent": 0,
             "location": "pages\/itissomuchmore\/index.html",
-            "order": 11,
+            "order": 16,
             "parent": null,
             "title": "More then that though",
             "description": "Ex uno Plures",
             "metadata": {
                 "created": 1551369680,
-                "updated": 1552650809,
+                "updated": 1552650822,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
@@ -341,15 +341,15 @@
         },
         {
             "id": "item-c3823dbc-2c7d-4b2e-a106-94c81c822402",
-            "indent": 3,
+            "indent": 0,
             "location": "pages\/dfsdfs\/index.html",
-            "order": 0,
-            "parent": "item-db70c9d2-558e-45e9-98af-11c8187510ac",
+            "order": 12,
+            "parent": null,
             "title": "dfsdfs",
             "description": "1`",
             "metadata": {
                 "created": 1551370134,
-                "updated": 1552650809
+                "updated": 1552650822
             }
         },
         {
@@ -367,28 +367,28 @@
         },
         {
             "id": "item-db70c9d2-558e-45e9-98af-11c8187510ac",
-            "indent": 2,
+            "indent": 0,
             "location": "pages\/dfsdfs-3\/index.html",
-            "order": 0,
-            "parent": "item-c013b44f-77e3-4cbf-ab3c-41d194d18fcd",
+            "order": 11,
+            "parent": null,
             "title": "dfsdfs",
             "description": "",
             "metadata": {
                 "created": 1551370571,
-                "updated": 1552650809
+                "updated": 1552650822
             }
         },
         {
             "id": "item-7b4adf1e-ce09-4267-b9db-198124f0810e",
-            "indent": 3,
+            "indent": 0,
             "location": "pages\/dfsdfs-4\/index.html",
-            "order": 1,
-            "parent": "item-db70c9d2-558e-45e9-98af-11c8187510ac",
+            "order": 13,
+            "parent": null,
             "title": "dfsdfs",
             "description": "",
             "metadata": {
                 "created": 1551370910,
-                "updated": 1552650809
+                "updated": 1552650822
             }
         },
         {
@@ -408,13 +408,26 @@
             "id": "item-f5e0c0f4-ab0e-4374-892d-621235dd0584",
             "indent": 0,
             "location": "pages\/another-up-top\/index.html",
-            "order": 12,
+            "order": 17,
             "parent": null,
             "title": "Another up top",
             "description": "",
             "metadata": {
                 "created": 1552512055,
-                "updated": 1552650809
+                "updated": 1552650822
+            }
+        },
+        {
+            "id": "item-feef80b9-ddd3-4012-914d-0ed22ec0bfdc",
+            "indent": 0,
+            "location": "pages\/dfsdfs-6\/index.html",
+            "order": 14,
+            "parent": null,
+            "title": "dfsdfs",
+            "description": "",
+            "metadata": {
+                "created": 1552650822,
+                "updated": 1552650822
             }
         }
     ]
