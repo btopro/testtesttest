@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1552651447,
+        "updated": 1552651607,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
@@ -71,7 +71,7 @@
             "description": "Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ",
             "metadata": {
                 "created": 1552651001,
-                "updated": 1552651447
+                "updated": 1552651607
             }
         },
         {
@@ -84,7 +84,7 @@
             "description": "",
             "metadata": {
                 "created": 1552651019,
-                "updated": 1552651447
+                "updated": 1552651607
             }
         },
         {
@@ -97,7 +97,7 @@
             "description": "Free\/Open Course Materials            You are welcome to use\/reuse\/remix\/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr",
             "metadata": {
                 "created": 1552651172,
-                "updated": 1552651447
+                "updated": 1552651607
             }
         },
         {
@@ -110,7 +110,7 @@
             "description": "  Python is amazing, use python for everythigNew:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses \/ Educational Material: \u00a0Coursera: Python for Eve",
             "metadata": {
                 "created": 1552651265,
-                "updated": 1552651447,
+                "updated": 1552651607,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
@@ -133,7 +133,7 @@
             "description": "Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp",
             "metadata": {
                 "created": 1552651423,
-                "updated": 1552651510
+                "updated": 1552651607
             }
         },
         {
@@ -146,7 +146,72 @@
             "description": "We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d",
             "metadata": {
                 "created": 1552651428,
-                "updated": 1552651549
+                "updated": 1552651607
+            }
+        },
+        {
+            "id": "item-6ee97fe8-3060-4856-9c24-ecdb29eac43d",
+            "indent": 1,
+            "location": "pages\/installing-python\/index.html",
+            "order": 0,
+            "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
+            "title": "Installing Python",
+            "description": "",
+            "metadata": {
+                "created": 1552651607,
+                "updated": 1552651607
+            }
+        },
+        {
+            "id": "item-2cd92d4d-a8fe-4b73-a775-60e04c782c83",
+            "indent": 1,
+            "location": "pages\/why-program-\/index.html",
+            "order": 1,
+            "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
+            "title": "Why Program?",
+            "description": "",
+            "metadata": {
+                "created": 1552651607,
+                "updated": 1552651607
+            }
+        },
+        {
+            "id": "item-e2d6ff9a-fe0c-4b61-b2e6-48c9a8cf70fe",
+            "indent": 1,
+            "location": "pages\/variables-expressions-and-statements\/index.html",
+            "order": 2,
+            "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
+            "title": "Variables, expressions, and statements",
+            "description": "",
+            "metadata": {
+                "created": 1552651607,
+                "updated": 1552651607
+            }
+        },
+        {
+            "id": "item-0bcdee69-1bf2-4aa7-8617-1e7a32e7950f",
+            "indent": 1,
+            "location": "pages\/conditional-execution\/index.html",
+            "order": 3,
+            "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
+            "title": "Conditional Execution",
+            "description": "",
+            "metadata": {
+                "created": 1552651607,
+                "updated": 1552651607
+            }
+        },
+        {
+            "id": "item-b3261352-b420-43a7-b2c9-1c3d833b9171",
+            "indent": 1,
+            "location": "pages\/functions\/index.html",
+            "order": 4,
+            "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
+            "title": "Functions",
+            "description": "",
+            "metadata": {
+                "created": 1552651607,
+                "updated": 1552651607
             }
         }
     ]

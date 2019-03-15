@@ -11,7 +11,7 @@
   <entry>
     <title>Get started</title>
     <id>/get-started</id>
-    <updated>2019-03-15T12:04:07+00:00</updated>
+    <updated>2019-03-15T12:06:47+00:00</updated>
     <published>2019-03-15T11:56:41+00:00</published>
     <summary>Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ</summary>
     <link href="/get-started"/>
@@ -23,7 +23,7 @@
   <entry>
     <title>Lessons</title>
     <id>/lessons</id>
-    <updated>2019-03-15T12:04:07+00:00</updated>
+    <updated>2019-03-15T12:06:47+00:00</updated>
     <published>2019-03-15T11:56:59+00:00</published>
     <summary></summary>
     <link href="/lessons"/>
@@ -35,7 +35,7 @@
   <entry>
     <title>Materials</title>
     <id>/materials</id>
-    <updated>2019-03-15T12:04:07+00:00</updated>
+    <updated>2019-03-15T12:06:47+00:00</updated>
     <published>2019-03-15T11:59:32+00:00</published>
     <summary>Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr</summary>
     <link href="/materials"/>
@@ -47,7 +47,7 @@
   <entry>
     <title>Instructor</title>
     <id>/instructor</id>
-    <updated>2019-03-15T12:04:07+00:00</updated>
+    <updated>2019-03-15T12:06:47+00:00</updated>
     <published>2019-03-15T12:01:05+00:00</published>
     <summary>  Python is amazing, use python for everythigNew:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses / Educational Material:  Coursera: Python for Eve</summary>
     <link href="/instructor"/>
@@ -59,7 +59,7 @@
   <entry>
     <title>Book</title>
     <id>/book</id>
-    <updated>2019-03-15T12:05:10+00:00</updated>
+    <updated>2019-03-15T12:06:47+00:00</updated>
     <published>2019-03-15T12:03:43+00:00</published>
     <summary>Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp</summary>
     <link href="/book"/>
@@ -71,13 +71,73 @@
   <entry>
     <title>Login</title>
     <id>/login</id>
-    <updated>2019-03-15T12:05:49+00:00</updated>
+    <updated>2019-03-15T12:06:47+00:00</updated>
     <published>2019-03-15T12:03:48+00:00</published>
     <summary>We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d</summary>
     <link href="/login"/>
     
     <content type="html">
       <![CDATA[ We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Installing Python</title>
+    <id>/installing-python</id>
+    <updated>2019-03-15T12:06:47+00:00</updated>
+    <published>2019-03-15T12:06:47+00:00</published>
+    <summary></summary>
+    <link href="/installing-python"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Why Program?</title>
+    <id>/why-program-</id>
+    <updated>2019-03-15T12:06:47+00:00</updated>
+    <published>2019-03-15T12:06:47+00:00</published>
+    <summary></summary>
+    <link href="/why-program-"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Variables, expressions, and statements</title>
+    <id>/variables-expressions-and-statements</id>
+    <updated>2019-03-15T12:06:47+00:00</updated>
+    <published>2019-03-15T12:06:47+00:00</published>
+    <summary></summary>
+    <link href="/variables-expressions-and-statements"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Conditional Execution</title>
+    <id>/conditional-execution</id>
+    <updated>2019-03-15T12:06:47+00:00</updated>
+    <published>2019-03-15T12:06:47+00:00</published>
+    <summary></summary>
+    <link href="/conditional-execution"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Functions</title>
+    <id>/functions</id>
+    <updated>2019-03-15T12:06:47+00:00</updated>
+    <published>2019-03-15T12:06:47+00:00</published>
+    <summary></summary>
+    <link href="/functions"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>
