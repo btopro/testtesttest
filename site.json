@@ -68,10 +68,10 @@
             "order": 0,
             "parent": null,
             "title": "Get started",
-            "description": "",
+            "description": "Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ",
             "metadata": {
                 "created": 1552651001,
-                "updated": 1552651019
+                "updated": 1552651084
             }
         },
         {

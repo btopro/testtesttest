@@ -6,16 +6,26 @@
     <description>A lecture</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2019 11:55:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 11:56:59 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Get started</title>
       <link>/get-started</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ ]]>
       </description>
       <category></category>
       <guid>/get-started</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lessons</title>
+      <link>/lessons</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/lessons</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>
