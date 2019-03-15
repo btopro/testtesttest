@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1552651273,
+        "updated": 1552651447,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
@@ -71,7 +71,7 @@
             "description": "Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ",
             "metadata": {
                 "created": 1552651001,
-                "updated": 1552651273
+                "updated": 1552651447
             }
         },
         {
@@ -84,7 +84,7 @@
             "description": "",
             "metadata": {
                 "created": 1552651019,
-                "updated": 1552651273
+                "updated": 1552651447
             }
         },
         {
@@ -97,7 +97,7 @@
             "description": "Free\/Open Course Materials            You are welcome to use\/reuse\/remix\/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr",
             "metadata": {
                 "created": 1552651172,
-                "updated": 1552651273
+                "updated": 1552651447
             }
         },
         {
@@ -110,7 +110,7 @@
             "description": "  Python is amazing, use python for everythigNew:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses \/ Educational Material: \u00a0Coursera: Python for Eve",
             "metadata": {
                 "created": 1552651265,
-                "updated": 1552651399,
+                "updated": 1552651447,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
@@ -127,26 +127,26 @@
             "id": "item-e6b35505-61b4-48d3-b683-42f85015e261",
             "indent": 0,
             "location": "pages\/book\/index.html",
-            "order": 0,
+            "order": 4,
             "parent": null,
             "title": "Book",
             "description": "",
             "metadata": {
                 "created": 1552651423,
-                "updated": 1552651423
+                "updated": 1552651447
             }
         },
         {
             "id": "item-ed7d34ba-4aa1-46a3-8d5c-9d7f96020700",
             "indent": 0,
             "location": "pages\/login\/index.html",
-            "order": 0,
+            "order": 5,
             "parent": null,
             "title": "Login",
             "description": "",
             "metadata": {
                 "created": 1552651428,
-                "updated": 1552651428
+                "updated": 1552651447
             }
         }
     ]

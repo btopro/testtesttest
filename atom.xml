@@ -11,7 +11,7 @@
   <entry>
     <title>Get started</title>
     <id>/get-started</id>
-    <updated>2019-03-15T12:01:13+00:00</updated>
+    <updated>2019-03-15T12:04:07+00:00</updated>
     <published>2019-03-15T11:56:41+00:00</published>
     <summary>Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ</summary>
     <link href="/get-started"/>
@@ -23,7 +23,7 @@
   <entry>
     <title>Lessons</title>
     <id>/lessons</id>
-    <updated>2019-03-15T12:01:13+00:00</updated>
+    <updated>2019-03-15T12:04:07+00:00</updated>
     <published>2019-03-15T11:56:59+00:00</published>
     <summary></summary>
     <link href="/lessons"/>
@@ -35,7 +35,7 @@
   <entry>
     <title>Materials</title>
     <id>/materials</id>
-    <updated>2019-03-15T12:01:13+00:00</updated>
+    <updated>2019-03-15T12:04:07+00:00</updated>
     <published>2019-03-15T11:59:32+00:00</published>
     <summary>Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr</summary>
     <link href="/materials"/>
@@ -47,13 +47,37 @@
   <entry>
     <title>Instructor</title>
     <id>/instructor</id>
-    <updated>2019-03-15T12:03:19+00:00</updated>
+    <updated>2019-03-15T12:04:07+00:00</updated>
     <published>2019-03-15T12:01:05+00:00</published>
     <summary>  Python is amazing, use python for everythigNew:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses / Educational Material:  Coursera: Python for Eve</summary>
     <link href="/instructor"/>
     
     <content type="html">
       <![CDATA[   Python is amazing, use python for everythigNew:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses / Educational Material:  Coursera: Python for Eve ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Book</title>
+    <id>/book</id>
+    <updated>2019-03-15T12:04:07+00:00</updated>
+    <published>2019-03-15T12:03:43+00:00</published>
+    <summary></summary>
+    <link href="/book"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Login</title>
+    <id>/login</id>
+    <updated>2019-03-15T12:04:07+00:00</updated>
+    <published>2019-03-15T12:03:48+00:00</published>
+    <summary></summary>
+    <link href="/login"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>
