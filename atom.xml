@@ -71,13 +71,13 @@
   <entry>
     <title>Login</title>
     <id>/login</id>
-    <updated>2019-03-15T12:04:07+00:00</updated>
+    <updated>2019-03-15T12:05:49+00:00</updated>
     <published>2019-03-15T12:03:48+00:00</published>
-    <summary></summary>
+    <summary>We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d</summary>
     <link href="/login"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d ]]>
     </content>
   </entry>
 </feed>

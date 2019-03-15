@@ -62,7 +62,7 @@
       <title>Login</title>
       <link>/login</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d ]]>
       </description>
       <category></category>
       <guid>/login</guid>

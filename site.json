@@ -143,10 +143,10 @@
             "order": 5,
             "parent": null,
             "title": "Login",
-            "description": "",
+            "description": "We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d",
             "metadata": {
                 "created": 1552651428,
-                "updated": 1552651447
+                "updated": 1552651549
             }
         }
     ]
