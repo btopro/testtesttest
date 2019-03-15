@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1552651019,
+        "updated": 1552651172,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
@@ -71,7 +71,7 @@
             "description": "Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ",
             "metadata": {
                 "created": 1552651001,
-                "updated": 1552651084
+                "updated": 1552651172
             }
         },
         {
@@ -84,7 +84,20 @@
             "description": "",
             "metadata": {
                 "created": 1552651019,
-                "updated": 1552651019
+                "updated": 1552651172
+            }
+        },
+        {
+            "id": "item-a1c240ba-4a6c-4e59-8342-fd32dde3e86a",
+            "indent": 0,
+            "location": "pages\/materials\/index.html",
+            "order": 2,
+            "parent": null,
+            "title": "Materials",
+            "description": "",
+            "metadata": {
+                "created": 1552651172,
+                "updated": 1552651172
             }
         }
     ]
