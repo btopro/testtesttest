@@ -37,100 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "pages\/get-started\/index.html",
-        "r3bjLfXraPzwZ6QsPLiYg"
-    ],
-    [
-        "pages\/lessons\/index.html",
-        "kcOnsCCUUe6Vpkgv5PRfw"
-    ],
-    [
-        "pages\/materials\/index.html",
-        "YJ16Y5NIrpL61FBQM4OPg"
-    ],
-    [
-        "pages\/instructor\/index.html",
-        "kbq4ywwkbtDGFKwHebyoIg"
-    ],
-    [
-        "pages\/book\/index.html",
-        "imZemSNMEQdIOnUiwDhPg"
-    ],
-    [
-        "pages\/login\/index.html",
-        "JXWB2l0QV4Y4uUdM9KEw"
-    ],
-    [
-        "pages\/installing-python\/index.html",
-        "HQ8PQi1m4YbEXD9EJdRJQg"
-    ],
-    [
-        "pages\/why-program-\/index.html",
-        "qOZJYFCdzPJdIYyl9hgxJg"
-    ],
-    [
-        "pages\/variables-expressions-and-statements\/index.html",
-        "cVTtgIs6zjaLzcEo2AVAA"
-    ],
-    [
-        "pages\/conditional-execution\/index.html",
-        "ojSoaRbOgusO7ltI6RJEw"
-    ],
-    [
-        "pages\/functions\/index.html",
-        "yGnzxKidU4fDVWGpYOqQ"
-    ],
-    [
-        "",
-        "uK5SHVaZ1Y8YtY5hkH2Q"
-    ],
-    [
-        "\/testtesttest\/",
-        "StK0BP0Zw00M5eRb9DJAw"
-    ],
-    [
-        "index.html",
-        "3lb3JoeaNmD9cnJsFuVygg"
-    ],
-    [
-        "manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        "site.json",
-        "JikV6SN3zGU0lOl37qHLw"
-    ],
-    [
-        "assets\/favicon.ico",
-        "HaBSbnoy8mFDNU595Wburg"
-    ],
-    [
-        "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ],
-    [
-        "files\/IMG_20190127_153429.jpg",
-        "yd4LYpwHWIv1yKGKmkQd4Q"
-    ],
-    [
-        "files\/IMG_20181228_113330.jpg",
-        "5b8FWMpVFsnQhPMXttFD7w"
-    ],
-    [
-        "files\/IMG_20181228_114109.jpg",
-        "9ClWNwxkwFM10kSocDGLQ"
-    ],
-    [
-        "files\/HAXCms workflow.jpg",
-        "h0QfGEQyTSwbkL9uFWojqw"
-    ],
-    [
-        "files\/csev_ian_dolphin_small.jpg",
-        "lvdcpaEyuIphtsV8ejVfA"
-    ]
-];
+var precacheConfig = {{ swhash| json_encode(constant('JSON_PRETTY_PRINT')) | raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -379,4 +286,4 @@ self.addEventListener('fetch', function (event) {
 
 // Runtime cache configuration, using the sw-toolbox library.
 
-toolbox.router.get(/(https?:\/\/cdn\.waxam\.io(\/[A-Za-z0-9\-\._~:\/\?#\[\]@!$&'\(\)\*\+,;\=]*)?)/, toolbox.fastest, {});
+toolbox.router.get(/'{{ cdnRegex }}'/, toolbox.cacheFirst, {});
