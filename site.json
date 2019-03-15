@@ -122,6 +122,19 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "item-e6b35505-61b4-48d3-b683-42f85015e261",
+            "indent": 0,
+            "location": "pages\/book\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Book",
+            "description": "",
+            "metadata": {
+                "created": 1552651423,
+                "updated": 1552651423
+            }
         }
     ]
 }
