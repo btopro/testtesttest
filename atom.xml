@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>DEV DEV DEV</title>
+  <title>Py4E</title>
   <link href="/atom.xml" rel="self" />
-  <subtitle>A lecture</subtitle>
-  <updated>2019-03-15T11:59:32+00:00</updated>
+  <subtitle>Python for everyone!</subtitle>
+  <updated>2019-03-15T12:00:22+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -11,7 +11,7 @@
   <entry>
     <title>Get started</title>
     <id>/get-started</id>
-    <updated>2019-03-15T11:59:32+00:00</updated>
+    <updated>2019-03-15T12:01:13+00:00</updated>
     <published>2019-03-15T11:56:41+00:00</published>
     <summary>Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ</summary>
     <link href="/get-started"/>
@@ -23,7 +23,7 @@
   <entry>
     <title>Lessons</title>
     <id>/lessons</id>
-    <updated>2019-03-15T11:59:32+00:00</updated>
+    <updated>2019-03-15T12:01:13+00:00</updated>
     <published>2019-03-15T11:56:59+00:00</published>
     <summary></summary>
     <link href="/lessons"/>
@@ -35,13 +35,25 @@
   <entry>
     <title>Materials</title>
     <id>/materials</id>
-    <updated>2019-03-15T11:59:42+00:00</updated>
+    <updated>2019-03-15T12:01:13+00:00</updated>
     <published>2019-03-15T11:59:32+00:00</published>
     <summary>Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr</summary>
     <link href="/materials"/>
     
     <content type="html">
       <![CDATA[ Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Instructor</title>
+    <id>/instructor</id>
+    <updated>2019-03-15T12:01:13+00:00</updated>
+    <published>2019-03-15T12:01:05+00:00</published>
+    <summary></summary>
+    <link href="/instructor"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>
