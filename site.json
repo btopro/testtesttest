@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1552650903,
+        "updated": 1552650931,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
@@ -71,7 +71,7 @@
             "description": "HeadingA paragraph of text would go here to describe the work.",
             "metadata": {
                 "created": 1550610491,
-                "updated": 1552650902,
+                "updated": 1552650931,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
@@ -94,7 +94,7 @@
             "description": "My great new content!Stuff and things herestuff.",
             "metadata": {
                 "created": 1550610510,
-                "updated": 1552650903
+                "updated": 1552650931
             }
         },
         {
@@ -107,7 +107,7 @@
             "description": "My great new content!Header",
             "metadata": {
                 "created": 1550610519,
-                "updated": 1552650903
+                "updated": 1552650931
             }
         },
         {
@@ -120,7 +120,7 @@
             "description": "",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1552650903,
+                "updated": 1552650931,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/test\/files\/IMG_20190127_153429.jpg",
@@ -143,7 +143,7 @@
             "description": "My great new content!Stuff and things",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1552650903
+                "updated": 1552650931
             }
         },
         {
@@ -170,7 +170,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550841355,
-                "updated": 1552650903
+                "updated": 1552650931
             }
         },
         {
@@ -184,7 +184,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550845398,
-                "updated": 1552650903,
+                "updated": 1552650931,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
@@ -224,7 +224,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550845651,
-                "updated": 1552650903,
+                "updated": 1552650931,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
@@ -248,7 +248,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550859299,
-                "updated": 1552650903
+                "updated": 1552650931
             }
         },
         {
@@ -262,7 +262,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550867588,
-                "updated": 1552650903,
+                "updated": 1552650931,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
@@ -286,7 +286,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1551369562,
-                "updated": 1552650903
+                "updated": 1552650931
             }
         },
         {
@@ -300,7 +300,7 @@
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1551369604,
-                "updated": 1552650903
+                "updated": 1552650931
             }
         },
         {
@@ -313,7 +313,7 @@
             "description": "Ex uno Plures This is where new data comes from.",
             "metadata": {
                 "created": 1551369640,
-                "updated": 1552650903
+                "updated": 1552650931
             }
         },
         {
