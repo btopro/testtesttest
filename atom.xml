@@ -3,7 +3,7 @@
   <title>Py4E</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Python for everyone!</subtitle>
-  <updated>2019-03-15T12:00:22+00:00</updated>
+  <updated>2019-03-15T12:01:13+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -47,13 +47,13 @@
   <entry>
     <title>Instructor</title>
     <id>/instructor</id>
-    <updated>2019-03-15T12:01:13+00:00</updated>
+    <updated>2019-03-15T12:01:23+00:00</updated>
     <published>2019-03-15T12:01:05+00:00</published>
-    <summary></summary>
+    <summary>New:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses / Educational Material:  Coursera: Python for Everybody (Python)  Coursera: Web Applications</summary>
     <link href="/instructor"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ New:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses / Educational Material:  Coursera: Python for Everybody (Python)  Coursera: Web Applications ]]>
     </content>
   </entry>
 </feed>

@@ -6,7 +6,7 @@
     <description>Python for everyone!</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2019 12:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 12:01:13 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Get started</title>
@@ -42,7 +42,7 @@
       <title>Instructor</title>
       <link>/instructor</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ New:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses / Educational Material:  Coursera: Python for Everybody (Python)  Coursera: Web Applications ]]>
       </description>
       <category></category>
       <guid>/instructor</guid>
