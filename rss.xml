@@ -6,10 +6,10 @@
     <description>A lecture</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2019 04:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 21:20:55 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Home</title>
+      <title>Getting started</title>
       <link>/home</link>
       <description>
           <![CDATA[ HeadingA paragraph of text would go here to describe the work. ]]>
@@ -19,7 +19,7 @@
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Things</title>
+      <title>Lessons</title>
       <link>/someotherplace-1</link>
       <description>
           <![CDATA[ My great new content!Stuff and things herestuff. ]]>
@@ -29,7 +29,7 @@
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>stuffddd</title>
+      <title>Materials</title>
       <link>/stuff</link>
       <description>
           <![CDATA[ My great new content!Header ]]>
@@ -39,17 +39,7 @@
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>whatever</title>
-      <link>/whatever</link>
-      <description>
-          <![CDATA[ My great new content! ]]>
-      </description>
-      <category></category>
-      <guid>/whatever</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chuck rocks</title>
+      <title>Instructor</title>
       <link>/chuck-band</link>
       <description>
           <![CDATA[  ]]>
@@ -59,7 +49,7 @@
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>what</title>
+      <title>Book</title>
       <link>/what</link>
       <description>
           <![CDATA[ My great new content!Stuff and things ]]>
@@ -79,7 +69,7 @@
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Changedf1</title>
+      <title>Login</title>
       <link>/some-new-thingf</link>
       <description>
           <![CDATA[ My great new content! ]]>
@@ -136,7 +126,7 @@
       </description>
       <category></category>
       <guid>/dfsdfs-1</guid>
-      <pubDate>Tue, 13 Mar 9562 15:51:36 +0000</pubDate>
+      <pubDate>Thu, 15 Mar 9562 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>123131ddd</title>
@@ -146,7 +136,7 @@
       </description>
       <category></category>
       <guid>/ddd12121</guid>
-      <pubDate>Sat, 13 Mar 9604 15:51:36 +0000</pubDate>
+      <pubDate>Mon, 15 Mar 9604 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>A real title please</title>
@@ -156,7 +146,7 @@
       </description>
       <category></category>
       <guid>/ghfhfghfhfhfh</guid>
-      <pubDate>Tue, 13 Mar 9640 15:51:36 +0000</pubDate>
+      <pubDate>Thu, 15 Mar 9640 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>More then that though</title>
@@ -166,7 +156,7 @@
       </description>
       <category></category>
       <guid>/itissomuchmore</guid>
-      <pubDate>Wed, 13 Mar 9680 15:51:36 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 9680 15:51:36 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
@@ -176,7 +166,7 @@
       </description>
       <category></category>
       <guid>/dfsdfs</guid>
-      <pubDate>Sat, 13 Mar 0134 15:51:37 +0000</pubDate>
+      <pubDate>Mon, 15 Mar 0134 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
@@ -186,7 +176,7 @@
       </description>
       <category></category>
       <guid>/dfsdfs-2</guid>
-      <pubDate>Wed, 13 Mar 0571 15:51:37 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 0571 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
@@ -196,7 +186,7 @@
       </description>
       <category></category>
       <guid>/dfsdfs-3</guid>
-      <pubDate>Wed, 13 Mar 0571 15:51:37 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 0571 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
@@ -206,7 +196,7 @@
       </description>
       <category></category>
       <guid>/dfsdfs-4</guid>
-      <pubDate>Thu, 13 Mar 0910 15:51:37 +0000</pubDate>
+      <pubDate>Sat, 15 Mar 0910 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>dfsdfs</title>
@@ -216,7 +206,7 @@
       </description>
       <category></category>
       <guid>/dfsdfs-5</guid>
-      <pubDate>Thu, 13 Mar 0910 15:51:37 +0000</pubDate>
+      <pubDate>Sat, 15 Mar 0910 15:51:37 +0000</pubDate>
     </item>
     <item>
       <title>Another up top</title>
@@ -226,7 +216,7 @@
       </description>
       <category></category>
       <guid>/another-up-top</guid>
-      <pubDate>Sat, 13 Mar 2055 15:52:51 +0000</pubDate>
+      <pubDate>Mon, 15 Mar 2055 15:52:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

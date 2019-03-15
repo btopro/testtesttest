@@ -7,11 +7,11 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1552512055,
+        "updated": 1552650778,
         "theme": {
-            "element": "haxcms-dev-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/haxcms-dev-theme.js",
-            "name": "dev theme"
+            "element": "haxcms-basic-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
+            "name": "Dev theme"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#429d00",
@@ -67,11 +67,11 @@
             "location": "pages\/home\/index.html",
             "order": 0,
             "parent": null,
-            "title": "Home",
+            "title": "Getting started",
             "description": "HeadingA paragraph of text would go here to describe the work.",
             "metadata": {
                 "created": 1550610491,
-                "updated": 1552512055,
+                "updated": 1552650778,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_113330.jpg",
@@ -86,54 +86,41 @@
         },
         {
             "id": "item-e9263476-0a86-402c-bfb4-7cd5624e2d65",
-            "indent": 1,
+            "indent": 0,
             "location": "pages\/someotherplace-1\/index.html",
-            "order": 0,
-            "parent": "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
-            "title": "Things",
+            "order": 1,
+            "parent": null,
+            "title": "Lessons",
             "description": "My great new content!Stuff and things herestuff.",
             "metadata": {
                 "created": 1550610510,
-                "updated": 1552512055
+                "updated": 1552650778
             }
         },
         {
             "id": "item-7bea39d0-083b-481b-afb1-774442303979",
-            "indent": 2,
+            "indent": 0,
             "location": "pages\/stuff\/index.html",
-            "order": 0,
-            "parent": "item-e9263476-0a86-402c-bfb4-7cd5624e2d65",
-            "title": "stuffddd",
+            "order": 2,
+            "parent": null,
+            "title": "Materials",
             "description": "My great new content!Header",
             "metadata": {
                 "created": 1550610519,
-                "updated": 1552512055
-            }
-        },
-        {
-            "id": "item-2bcb5f52-b65c-4e6b-a0c9-5b69212e34e1",
-            "indent": 1,
-            "location": "pages\/whatever\/index.html",
-            "order": 1,
-            "parent": "item-14e9e811-8d92-41ee-b2f1-8248eacc3138",
-            "title": "whatever",
-            "description": "My great new content!",
-            "metadata": {
-                "created": 1550610519,
-                "updated": 1552512055
+                "updated": 1552650778
             }
         },
         {
             "id": "item-325b21a3-fce2-4161-94ac-043f09665146",
-            "indent": 3,
+            "indent": 0,
             "location": "pages\/chuck-band\/index.html",
-            "order": 0,
-            "parent": "item-7bea39d0-083b-481b-afb1-774442303979",
-            "title": "Chuck rocks",
+            "order": 3,
+            "parent": null,
+            "title": "Instructor",
             "description": "",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1552512055,
+                "updated": 1552650778,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/test\/files\/IMG_20190127_153429.jpg",
@@ -148,15 +135,15 @@
         },
         {
             "id": "item-3e0fd638-ba86-40b8-8674-c6101671755d",
-            "indent": 2,
+            "indent": 0,
             "location": "pages\/what\/index.html",
-            "order": 0,
-            "parent": "item-2bcb5f52-b65c-4e6b-a0c9-5b69212e34e1",
-            "title": "what",
+            "order": 4,
+            "parent": null,
+            "title": "Book",
             "description": "My great new content!Stuff and things",
             "metadata": {
                 "created": 1550610605,
-                "updated": 1552512055
+                "updated": 1552650778
             }
         },
         {
@@ -176,14 +163,14 @@
             "id": "item-2ee1c1dd-02fa-4860-b9f4-703c5bde0d94",
             "indent": 0,
             "location": "pages\/some-new-thingf\/index.html",
-            "order": 1,
+            "order": 5,
             "parent": null,
-            "title": "Changedf1",
+            "title": "Login",
             "description": "My great new content!",
             "metadata": {
                 "siteName": "testtesttest",
                 "created": 1550841355,
-                "updated": 1552512055
+                "updated": 1552650778
             }
         },
         {
