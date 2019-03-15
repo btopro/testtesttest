@@ -6,7 +6,7 @@
     <description>A lecture</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2019 11:56:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 11:59:32 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Get started</title>
@@ -26,6 +26,16 @@
       </description>
       <category></category>
       <guid>/lessons</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Materials</title>
+      <link>/materials</link>
+      <description>
+          <![CDATA[ Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr ]]>
+      </description>
+      <category></category>
+      <guid>/materials</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>
