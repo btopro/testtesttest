@@ -3,7 +3,7 @@
   <title>Py4E</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Python for everyone!</subtitle>
-  <updated>2019-03-15T12:01:13+00:00</updated>
+  <updated>2019-03-15T12:04:07+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -59,13 +59,13 @@
   <entry>
     <title>Book</title>
     <id>/book</id>
-    <updated>2019-03-15T12:04:07+00:00</updated>
+    <updated>2019-03-15T12:05:10+00:00</updated>
     <published>2019-03-15T12:03:43+00:00</published>
-    <summary></summary>
+    <summary>Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp</summary>
     <link href="/book"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp ]]>
     </content>
   </entry>
   <entry>
