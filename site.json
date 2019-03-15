@@ -99,6 +99,19 @@
                 "created": 1552651172,
                 "updated": 1552651182
             }
+        },
+        {
+            "id": "item-3dbea5f4-4bd8-4177-b777-1c93e9248718",
+            "indent": 0,
+            "location": "pages\/instructor\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Instructor",
+            "description": "",
+            "metadata": {
+                "created": 1552651265,
+                "updated": 1552651265
+            }
         }
     ]
 }
