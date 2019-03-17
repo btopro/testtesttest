@@ -57,7 +57,7 @@
             "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
             "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js"
         },
-        "lastPublished": 1552652601,
+        "lastPublished": 1552800027,
         "icon": "icons:save"
     },
     "items": [
@@ -94,7 +94,12 @@
                         "name": "IMG_20190127_153429.jpg",
                         "size": 27242
                     }
-                ]
+                ],
+                "theme": {
+                    "element": "haxcms-dev-theme",
+                    "path": "@lrnwebcomponents\/haxcms-elements\/lib\/development\/haxcms-dev-theme.js",
+                    "name": "Dev"
+                }
             }
         },
         {
@@ -107,7 +112,12 @@
             "description": "Free\/Open Course Materials            You are welcome to use\/reuse\/remix\/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr",
             "metadata": {
                 "created": 1552651172,
-                "updated": 1552651607
+                "updated": 1552651607,
+                "theme": {
+                    "element": "learn-two-theme",
+                    "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
+                    "name": "Learn"
+                }
             }
         },
         {
@@ -130,7 +140,12 @@
                         "name": "csev_ian_dolphin_small.jpg",
                         "size": 18507
                     }
-                ]
+                ],
+                "theme": {
+                    "element": "outline-player",
+                    "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
+                    "name": "outline"
+                }
             }
         },
         {
@@ -143,7 +158,12 @@
             "description": "Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp",
             "metadata": {
                 "created": 1552651423,
-                "updated": 1552651607
+                "updated": 1552651607,
+                "theme": {
+                    "element": "simple-blog",
+                    "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
+                    "name": "simple"
+                }
             }
         },
         {
