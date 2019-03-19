@@ -9,18 +9,6 @@
   </author>
   <id>/feed</id>
   <entry>
-    <title>Get started</title>
-    <id>/get-started</id>
-    <updated>2019-03-19T13:44:46+00:00</updated>
-    <published>2019-03-15T11:56:41+00:00</published>
-    <summary>Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ</summary>
-    <link href="/get-started"/>
-    
-    <content type="html">
-      <![CDATA[ Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Lessons</title>
     <id>/lessons</id>
     <updated>2019-03-19T12:07:30+00:00</updated>
@@ -33,15 +21,27 @@
     </content>
   </entry>
   <entry>
+    <title>Get started</title>
+    <id>/get-started</id>
+    <updated>2019-03-19T13:44:46+00:00</updated>
+    <published>2019-03-15T11:56:41+00:00</published>
+    <summary>Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ</summary>
+    <link href="/get-started"/>
+    
+    <content type="html">
+      <![CDATA[ Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Materials</title>
     <id>/materials</id>
-    <updated>2019-03-15T12:06:47+00:00</updated>
+    <updated>2019-03-19T20:22:51+00:00</updated>
     <published>2019-03-15T11:59:32+00:00</published>
-    <summary>Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr</summary>
+    <summary> 1.1 What do we mean when we say "research data"?Broadly speaking, research data is the information needed to produce and support your research findings.       			 For Example       			If youâ</summary>
     <link href="/materials"/>
     
     <content type="html">
-      <![CDATA[ Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr ]]>
+      <![CDATA[  1.1 What do we mean when we say "research data"?Broadly speaking, research data is the information needed to produce and support your research findings.       			 For Example       			If youâ ]]>
     </content>
   </entry>
   <entry>
