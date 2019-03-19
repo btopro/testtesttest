@@ -57,7 +57,7 @@
             "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
             "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js"
         },
-        "lastPublished": 1552800027,
+        "lastPublished": 1553002188,
         "icon": "icons:save"
     },
     "items": [
@@ -71,7 +71,25 @@
             "description": "Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ",
             "metadata": {
                 "created": 1552651001,
-                "updated": 1552651607
+                "updated": 1552997912,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/2019-02-20_01-26-10.png",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/2019-02-20_01-26-10.png",
+                        "url": "files\/2019-02-20_01-26-10.png",
+                        "type": "image\/png",
+                        "name": "2019-02-20_01-26-10.png",
+                        "size": 59026
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/2019-01-27_10-22-48.png",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/2019-01-27_10-22-48.png",
+                        "url": "files\/2019-01-27_10-22-48.png",
+                        "type": "image\/png",
+                        "name": "2019-01-27_10-22-48.png",
+                        "size": 31686
+                    }
+                ]
             }
         },
         {
@@ -84,7 +102,7 @@
             "description": "Ex uno Plures",
             "metadata": {
                 "created": 1552651019,
-                "updated": 1552704188,
+                "updated": 1552997250,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -93,6 +111,22 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20190127_153429.jpg",
                         "size": 27242
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/HAXCms workflow-1.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/HAXCms workflow-1.jpg",
+                        "url": "files\/HAXCms workflow-1.jpg",
+                        "type": "image\/jpeg",
+                        "name": "HAXCms workflow-1.jpg",
+                        "size": 72736
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/2019-01-27_10-10-58.png",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/2019-01-27_10-10-58.png",
+                        "url": "files\/2019-01-27_10-10-58.png",
+                        "type": "image\/png",
+                        "name": "2019-01-27_10-10-58.png",
+                        "size": 19304
                     }
                 ],
                 "theme": {
@@ -176,7 +210,12 @@
             "description": "We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d",
             "metadata": {
                 "created": 1552651428,
-                "updated": 1552651607
+                "updated": 1552651607,
+                "theme": {
+                    "element": "haxcms-slide-theme",
+                    "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-slide-theme.js",
+                    "name": "slide site"
+                }
             }
         },
         {
