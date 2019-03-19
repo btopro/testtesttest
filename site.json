@@ -71,7 +71,17 @@
             "description": "Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ",
             "metadata": {
                 "created": 1552651001,
-                "updated": 1552962124
+                "updated": 1552962124,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/2019-02-20_01-26-10.png",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/2019-02-20_01-26-10.png",
+                        "url": "files\/2019-02-20_01-26-10.png",
+                        "type": "image\/png",
+                        "name": "2019-02-20_01-26-10.png",
+                        "size": 59026
+                    }
+                ]
             }
         },
         {
