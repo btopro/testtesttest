@@ -67,11 +67,11 @@
             "location": "pages\/lessons\/index.html",
             "order": 0,
             "parent": null,
-            "title": "Lessons",
+            "title": "Lessons1",
             "description": "",
             "metadata": {
                 "created": 1552651019,
-                "updated": 1553113706,
+                "updated": 1553115291,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -103,7 +103,9 @@
                     "path": "@lrnwebcomponents\/haxcms-elements\/lib\/development\/haxcms-dev-theme.js",
                     "name": "Dev"
                 }
-            }
+            },
+            "created": "1552651019",
+            "updated": "1553113706"
         },
         {
             "id": "item-8078480b-f6b5-48ee-ac20-de1d7facc20e",
