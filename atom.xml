@@ -45,15 +45,15 @@
     </content>
   </entry>
   <entry>
-    <title>Instructor</title>
-    <id>/instructor</id>
-    <updated>2019-03-15T12:06:47+00:00</updated>
+    <title>Instructordddd</title>
+    <id>/instructor2d</id>
+    <updated>2019-03-20T20:57:02+00:00</updated>
     <published>2019-03-15T12:01:05+00:00</published>
-    <summary>  Python is amazing, use python for everythigNew:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses / Educational Material:  Coursera: Python for Eve</summary>
-    <link href="/instructor"/>
+    <summary>This is a description</summary>
+    <link href="/instructor2d"/>
     
     <content type="html">
-      <![CDATA[   Python is amazing, use python for everythigNew:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses / Educational Material:  Coursera: Python for Eve ]]>
+      <![CDATA[ This is a description ]]>
     </content>
   </entry>
   <entry>

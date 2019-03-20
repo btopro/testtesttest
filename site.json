@@ -103,9 +103,7 @@
                     "path": "@lrnwebcomponents\/haxcms-elements\/lib\/development\/haxcms-dev-theme.js",
                     "name": "Dev"
                 }
-            },
-            "created": "1552651019",
-            "updated": "1553113706"
+            }
         },
         {
             "id": "item-8078480b-f6b5-48ee-ac20-de1d7facc20e",
@@ -159,14 +157,14 @@
         {
             "id": "item-3dbea5f4-4bd8-4177-b777-1c93e9248718",
             "indent": 0,
-            "location": "pages\/instructor\/index.html",
+            "location": "pages\/instructor2d\/index.html",
             "order": 3,
             "parent": null,
-            "title": "Instructor",
-            "description": "  Python is amazing, use python for everythigNew:TsugiCloud - An Educational App StoreNew:MOOC Office Hours Around the WorldFree Courses \/ Educational Material: \u00a0Coursera: Python for Eve",
+            "title": "Instructordddd",
+            "description": "This is a description",
             "metadata": {
                 "created": 1552651265,
-                "updated": 1552651607,
+                "updated": 1553115422,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
@@ -182,7 +180,9 @@
                     "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
                     "name": "outline"
                 }
-            }
+            },
+            "created": "1552651262",
+            "updated": "1552651607"
         },
         {
             "id": "item-e6b35505-61b4-48d3-b683-42f85015e261",
