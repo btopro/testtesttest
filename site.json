@@ -58,7 +58,15 @@
             "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js"
         },
         "lastPublished": 1553003110,
-        "icon": "icons:save"
+        "icon": "icons:save",
+        "fields": {
+            "images": {
+                "name": "images",
+                "description": "Images for posts",
+                "value": null,
+                "type": "string"
+            }
+        }
     },
     "items": [
         {
@@ -71,7 +79,7 @@
             "description": "",
             "metadata": {
                 "created": 1552651019,
-                "updated": 1553115291,
+                "updated": 1553115945,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -103,7 +111,10 @@
                     "path": "@lrnwebcomponents\/haxcms-elements\/lib\/development\/haxcms-dev-theme.js",
                     "name": "Dev"
                 }
-            }
+            },
+            "created": "1552651019",
+            "updated": "1553115291",
+            "images": "https:\/\/btopro.com\/files\/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg"
         },
         {
             "id": "item-8078480b-f6b5-48ee-ac20-de1d7facc20e",
@@ -180,9 +191,7 @@
                     "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
                     "name": "outline"
                 }
-            },
-            "created": "1552651262",
-            "updated": "1552651607"
+            }
         },
         {
             "id": "item-e6b35505-61b4-48d3-b683-42f85015e261",
