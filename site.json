@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1552651607,
+        "updated": 1553187736,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
@@ -139,6 +139,7 @@
                     }
                 ],
                 "theme": {
+                    "key": "haxcms-dev-theme",
                     "element": "haxcms-dev-theme",
                     "path": "@lrnwebcomponents\/haxcms-elements\/lib\/development\/haxcms-dev-theme.js",
                     "name": "Dev"
@@ -188,6 +189,7 @@
                 "created": 1552651172,
                 "updated": 1552651607,
                 "theme": {
+                    "key": "learn-two-theme",
                     "element": "learn-two-theme",
                     "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
                     "name": "Learn"
@@ -216,6 +218,7 @@
                     }
                 ],
                 "theme": {
+                    "key": "outline-player",
                     "element": "outline-player",
                     "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
                     "name": "outline"
@@ -234,6 +237,7 @@
                 "created": 1552651423,
                 "updated": 1552651607,
                 "theme": {
+                    "key": "simple-blog",
                     "element": "simple-blog",
                     "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
                     "name": "simple"
@@ -252,6 +256,7 @@
                 "created": 1552651428,
                 "updated": 1552651607,
                 "theme": {
+                    "key": "haxcms-slide-theme",
                     "element": "haxcms-slide-theme",
                     "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-slide-theme.js",
                     "name": "slide site"
@@ -270,6 +275,7 @@
                 "created": 1552651607,
                 "updated": 1553185252,
                 "theme": {
+                    "key": "haxcms-minimalist-theme",
                     "element": "haxcms-minimalist-theme",
                     "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
                     "name": "minimalist site"
