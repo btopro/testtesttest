@@ -9,15 +9,15 @@
   </author>
   <id>/feed</id>
   <entry>
-    <title>Lessons1</title>
+    <title>Home</title>
     <id>/lessons</id>
-    <updated>2019-03-21T17:04:28+00:00</updated>
+    <updated>2019-03-21T17:05:07+00:00</updated>
     <published>2019-03-15T11:56:59+00:00</published>
-    <summary></summary>
+    <summary>The home page</summary>
     <link href="/lessons"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ The home page ]]>
     </content>
   </entry>
   <entry>

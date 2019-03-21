@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 21 Mar 2019 17:02:16 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Lessons1</title>
+      <title>Home</title>
       <link>/lessons</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ The home page ]]>
       </description>
       <category></category>
       <guid>/lessons</guid>
