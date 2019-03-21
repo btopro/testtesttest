@@ -295,7 +295,17 @@
                     "subtitle": "Introduction to Research Data Management",
                     "accentColor": "red",
                     "": "item-6ee97fe8-3060-4856-9c24-ecdb29eac43d"
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/2019-03-12_16-45-51.png",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/2019-03-12_16-45-51.png",
+                        "url": "files\/2019-03-12_16-45-51.png",
+                        "type": "image\/png",
+                        "name": "2019-03-12_16-45-51.png",
+                        "size": 212153
+                    }
+                ]
             }
         },
         {
