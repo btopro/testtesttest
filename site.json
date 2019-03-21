@@ -344,10 +344,10 @@
             "order": 4,
             "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
             "title": "Functions",
-            "description": "Ex uno Plures",
+            "description": "Things and stuff but let's see why this doesn't render the below thing.",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1553190766,
+                "updated": 1553190789,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
