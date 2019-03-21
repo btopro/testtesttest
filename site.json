@@ -108,10 +108,10 @@
             "order": 0,
             "parent": null,
             "title": "Home",
-            "description": "The home page",
+            "description": "",
             "metadata": {
                 "created": 1552651019,
-                "updated": 1553187907,
+                "updated": 1553190840,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
