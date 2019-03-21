@@ -274,11 +274,11 @@
             "location": "pages\/lesson-3\/index.html",
             "order": 0,
             "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
-            "title": "Lesson 3: Data Description & Documentation",
+            "title": "Lesson 3: Data Description",
             "description": "",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1553185252,
+                "updated": 1553187979,
                 "theme": {
                     "key": "haxcms-minimalist-theme",
                     "element": "haxcms-minimalist-theme",
