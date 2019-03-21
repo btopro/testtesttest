@@ -60,12 +60,44 @@
         "lastPublished": 1553003110,
         "icon": "icons:save",
         "fields": {
-            "images": {
-                "name": "images",
-                "description": "Images for posts",
-                "value": null,
-                "type": "string"
-            }
+            "configure": [
+                {
+                    "property": "images",
+                    "description": "List of images",
+                    "required": false,
+                    "icon": "image:collections",
+                    "title": "Other sources",
+                    "inputMethod": "array",
+                    "properties": [
+                        {
+                            "property": "src",
+                            "title": "Source",
+                            "description": "The URL for the image",
+                            "inputMethod": "textfield"
+                        },
+                        {
+                            "property": "alt",
+                            "title": "Alt",
+                            "description": "Alt text",
+                            "inputMethod": "textfield"
+                        }
+                    ]
+                },
+                {
+                    "property": "subtitle",
+                    "title": "Subtitle",
+                    "description": "An additional subtitle",
+                    "inputMethod": "textfield",
+                    "icon": "editor:text-fields"
+                },
+                {
+                    "property": "accentColor",
+                    "title": "Accent color",
+                    "description": "Select the accent color for the player.",
+                    "inputMethod": "colorpicker",
+                    "icon": "editor:format-color-fill"
+                }
+            ]
         }
     },
     "items": [
@@ -111,10 +143,7 @@
                     "path": "@lrnwebcomponents\/haxcms-elements\/lib\/development\/haxcms-dev-theme.js",
                     "name": "Dev"
                 }
-            },
-            "created": "1552651019",
-            "updated": "1553115291",
-            "images": "https:\/\/btopro.com\/files\/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg"
+            }
         },
         {
             "id": "item-8078480b-f6b5-48ee-ac20-de1d7facc20e",
@@ -232,18 +261,23 @@
         {
             "id": "item-6ee97fe8-3060-4856-9c24-ecdb29eac43d",
             "indent": 1,
-            "location": "pages\/installing-python\/index.html",
+            "location": "pages\/lesson-3\/index.html",
             "order": 0,
             "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
-            "title": "Installing Python",
+            "title": "Lesson 3: Data Description & Documentation",
             "description": "",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1552651607,
+                "updated": 1553183619,
                 "theme": {
                     "element": "haxcms-minimalist-theme",
                     "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
                     "name": "minimalist site"
+                },
+                "fields": {
+                    "images": false,
+                    "subtitle": "Introduction to Research Data Management",
+                    "accentColor": "red"
                 }
             }
         },
