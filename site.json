@@ -268,7 +268,7 @@
             "description": "",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1553183619,
+                "updated": 1553184050,
                 "theme": {
                     "element": "haxcms-minimalist-theme",
                     "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
