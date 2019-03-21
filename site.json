@@ -268,14 +268,19 @@
             "description": "",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1553184950,
+                "updated": 1553185252,
                 "theme": {
                     "element": "haxcms-minimalist-theme",
                     "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
                     "name": "minimalist site"
                 },
                 "fields": {
-                    "images": false,
+                    "images": {
+                        "0": {
+                            "src": "https:\/\/lo.library.wisc.edu\/research_data_mgmt\/Images\/Death_to_stock_kinckerbocker_photography_6.jpg",
+                            "alt": "photo of thread organized and described by color"
+                        }
+                    },
                     "subtitle": "Introduction to Research Data Management",
                     "accentColor": "red",
                     "": "item-6ee97fe8-3060-4856-9c24-ecdb29eac43d"
