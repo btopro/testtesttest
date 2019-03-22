@@ -7,11 +7,11 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1553187736,
+        "updated": 1553266393,
         "theme": {
-            "element": "haxcms-minimalist-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
-            "name": "Custom theme"
+            "element": "learn-two-theme",
+            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
+            "name": "Learn"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#D32F2F",
