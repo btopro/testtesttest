@@ -9,9 +9,9 @@
         "created": 1550610491,
         "updated": 1553187736,
         "theme": {
-            "element": "haxcms-basic-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
-            "name": "Basic site"
+            "element": "haxcms-minimalist-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
+            "name": "Custom theme"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#D32F2F",
@@ -138,12 +138,6 @@
                         "size": 19304
                     }
                 ],
-                "theme": {
-                    "element": "haxcms-slide-theme",
-                    "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-slide-theme.js",
-                    "name": "Slide deck",
-                    "key": "haxcms-slide-theme"
-                },
                 "fields": {
                     "images": {},
                     "subtitle": "Things and stuff",
@@ -192,13 +186,7 @@
             "description": "Free\/Open Course Materials            You are welcome to use\/reuse\/remix\/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr",
             "metadata": {
                 "created": 1552651172,
-                "updated": 1552651607,
-                "theme": {
-                    "key": "learn-two-theme",
-                    "element": "learn-two-theme",
-                    "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
-                    "name": "Learn"
-                }
+                "updated": 1552651607
             }
         },
         {
@@ -221,13 +209,7 @@
                         "name": "csev_ian_dolphin_small.jpg",
                         "size": 18507
                     }
-                ],
-                "theme": {
-                    "key": "outline-player",
-                    "element": "outline-player",
-                    "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
-                    "name": "outline"
-                }
+                ]
             }
         },
         {
@@ -240,13 +222,7 @@
             "description": "Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp",
             "metadata": {
                 "created": 1552651423,
-                "updated": 1552651607,
-                "theme": {
-                    "key": "simple-blog",
-                    "element": "simple-blog",
-                    "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
-                    "name": "simple"
-                }
+                "updated": 1552651607
             }
         },
         {
@@ -259,13 +235,7 @@
             "description": "We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d",
             "metadata": {
                 "created": 1552651428,
-                "updated": 1552651607,
-                "theme": {
-                    "key": "haxcms-slide-theme",
-                    "element": "haxcms-slide-theme",
-                    "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-slide-theme.js",
-                    "name": "slide site"
-                }
+                "updated": 1552651607
             }
         },
         {
@@ -279,12 +249,6 @@
             "metadata": {
                 "created": 1552651607,
                 "updated": 1553190880,
-                "theme": {
-                    "key": "haxcms-minimalist-theme",
-                    "element": "haxcms-minimalist-theme",
-                    "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
-                    "name": "minimalist site"
-                },
                 "fields": {
                     "images": {
                         "0": {
@@ -331,7 +295,12 @@
             "description": "",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1552651607
+                "updated": 1553263182,
+                "fields": {
+                    "images": {},
+                    "subtitle": "Things and stuff",
+                    "accentColor": ""
+                }
             }
         },
         {
