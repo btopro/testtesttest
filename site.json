@@ -111,7 +111,7 @@
             "description": "",
             "metadata": {
                 "created": 1552651019,
-                "updated": 1553265240,
+                "updated": 1553265247,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -144,10 +144,10 @@
                     "accentColor": "green"
                 },
                 "theme": {
-                    "element": "learn-two-theme",
-                    "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
-                    "name": "Learn",
-                    "key": "learn-two-theme"
+                    "element": "haxcms-minimalist-theme",
+                    "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
+                    "name": "Minimalist site",
+                    "key": "haxcms-minimalist-theme"
                 }
             }
         },
