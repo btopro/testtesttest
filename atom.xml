@@ -3,7 +3,7 @@
   <title>Py4E</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Python for everyone!</subtitle>
-  <updated>2019-03-22T14:53:13+00:00</updated>
+  <updated>2019-03-22T14:56:47+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -131,7 +131,7 @@
   <entry>
     <title>Functions</title>
     <id>/functions</id>
-    <updated>2019-03-22T14:56:47+00:00</updated>
+    <updated>2019-03-22T15:01:53+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary>Things and stuff but let's see why this doesn't render the below thing.</summary>
     <link href="/functions"/>
