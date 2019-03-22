@@ -7,10 +7,10 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1553263200,
+        "updated": 1553187736,
         "theme": {
-            "element": "haxcms-custom-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-custom-theme.js",
+            "element": "haxcms-minimalist-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
             "name": "Custom theme"
         },
         "image": "assets\/banner.jpg",
@@ -111,7 +111,7 @@
             "description": "",
             "metadata": {
                 "created": 1552651019,
-                "updated": 1553194213,
+                "updated": 1553265221,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -142,6 +142,12 @@
                     "images": {},
                     "subtitle": "Things and stuff",
                     "accentColor": "green"
+                },
+                "theme": {
+                    "element": "learn-two-theme",
+                    "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
+                    "name": "Learn",
+                    "key": "learn-two-theme"
                 }
             }
         },
@@ -295,12 +301,7 @@
             "description": "",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1553263182,
-                "fields": {
-                    "images": {},
-                    "subtitle": "Things and stuff",
-                    "accentColor": ""
-                }
+                "updated": 1552651607
             }
         },
         {
