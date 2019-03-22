@@ -3,7 +3,7 @@
   <title>Py4E</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Python for everyone!</subtitle>
-  <updated>2019-03-21T17:02:16+00:00</updated>
+  <updated>2019-03-22T14:53:13+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -11,7 +11,7 @@
   <entry>
     <title>Home</title>
     <id>/lessons</id>
-    <updated>2019-03-22T14:34:07+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T11:56:59+00:00</published>
     <summary></summary>
     <link href="/lessons"/>
@@ -21,9 +21,9 @@
     </content>
   </entry>
   <entry>
-    <title>Get started</title>
+    <title>Get started with this</title>
     <id>/get-started</id>
-    <updated>2019-03-19T13:44:46+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T11:56:41+00:00</published>
     <summary>Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ</summary>
     <link href="/get-started"/>
@@ -33,9 +33,9 @@
     </content>
   </entry>
   <entry>
-    <title>Materials</title>
+    <title>Materials things</title>
     <id>/materials</id>
-    <updated>2019-03-15T12:06:47+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T11:59:32+00:00</published>
     <summary>Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr</summary>
     <link href="/materials"/>
@@ -47,7 +47,7 @@
   <entry>
     <title>Instructordddd</title>
     <id>/instructor2d</id>
-    <updated>2019-03-20T20:57:02+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:01:05+00:00</published>
     <summary>This is a description</summary>
     <link href="/instructor2d"/>
@@ -59,7 +59,7 @@
   <entry>
     <title>Book</title>
     <id>/book</id>
-    <updated>2019-03-15T12:06:47+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:03:43+00:00</published>
     <summary>Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp</summary>
     <link href="/book"/>
@@ -71,7 +71,7 @@
   <entry>
     <title>Login</title>
     <id>/login</id>
-    <updated>2019-03-15T12:06:47+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:03:48+00:00</published>
     <summary>We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d</summary>
     <link href="/login"/>
@@ -83,7 +83,7 @@
   <entry>
     <title>Lesson 3: Data Description</title>
     <id>/lesson-3</id>
-    <updated>2019-03-21T17:54:40+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary>Stop with all the things or whateverdfsdfsdsfsfsdfdfs</summary>
     <link href="/lesson-3"/>
@@ -95,7 +95,7 @@
   <entry>
     <title>Why Program?</title>
     <id>/why-program-</id>
-    <updated>2019-03-15T12:06:47+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary></summary>
     <link href="/why-program-"/>
@@ -107,7 +107,7 @@
   <entry>
     <title>Variables, expressions, and statements</title>
     <id>/variables-expressions-and-statements</id>
-    <updated>2019-03-22T14:38:37+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary></summary>
     <link href="/variables-expressions-and-statements"/>
@@ -119,7 +119,7 @@
   <entry>
     <title>Conditional Execution</title>
     <id>/conditional-execution</id>
-    <updated>2019-03-15T12:06:47+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary></summary>
     <link href="/conditional-execution"/>
@@ -131,7 +131,7 @@
   <entry>
     <title>Functions</title>
     <id>/functions</id>
-    <updated>2019-03-21T17:53:09+00:00</updated>
+    <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary>Things and stuff but let's see why this doesn't render the below thing.</summary>
     <link href="/functions"/>
