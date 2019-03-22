@@ -7,10 +7,10 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1553187736,
+        "updated": 1553263200,
         "theme": {
-            "element": "haxcms-minimalist-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
+            "element": "haxcms-custom-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-custom-theme.js",
             "name": "Custom theme"
         },
         "image": "assets\/banner.jpg",
