@@ -301,7 +301,7 @@
             "description": "",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1553266607,
+                "updated": 1553281439,
                 "fields": {
                     "images": {
                         "0": {
@@ -315,6 +315,12 @@
                     },
                     "subtitle": "Chuck will flip",
                     "accentColor": ""
+                },
+                "theme": {
+                    "element": "haxcms-minimalist-theme",
+                    "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
+                    "name": "Minimalist site",
+                    "key": "haxcms-minimalist-theme"
                 }
             }
         },
