@@ -9,9 +9,9 @@
         "created": 1550610491,
         "updated": 1553266607,
         "theme": {
-            "element": "learn-two-theme",
-            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
-            "name": "Learn"
+            "element": "haxcms-custom-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-custom-theme.js",
+            "name": "Custom"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#D32F2F",
@@ -89,13 +89,6 @@
                     "description": "An additional subtitle",
                     "inputMethod": "textfield",
                     "icon": "editor:text-fields"
-                },
-                {
-                    "property": "accentColor",
-                    "title": "Accent color",
-                    "description": "Select the accent color for the player.",
-                    "inputMethod": "colorpicker",
-                    "icon": "editor:format-color-fill"
                 }
             ]
         }
@@ -110,8 +103,9 @@
             "title": "Home",
             "description": "",
             "metadata": {
+                "type": "news",
                 "created": 1552651019,
-                "updated": 1553266607,
+                "updated": 1553707046,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -315,12 +309,6 @@
                     },
                     "subtitle": "Collins will flip out",
                     "accentColor": ""
-                },
-                "theme": {
-                    "element": "haxcms-minimalist-theme",
-                    "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
-                    "name": "Minimalist site",
-                    "key": "haxcms-minimalist-theme"
                 }
             }
         },
