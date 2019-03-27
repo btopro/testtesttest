@@ -105,7 +105,7 @@
             "metadata": {
                 "type": "news",
                 "created": 1552651019,
-                "updated": 1553707046,
+                "updated": 1553707060,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -134,7 +134,7 @@
                 ],
                 "fields": {
                     "images": {},
-                    "subtitle": "Things and stuff",
+                    "subtitle": "fsdsdfdfsdsf",
                     "accentColor": "green"
                 },
                 "theme": {
