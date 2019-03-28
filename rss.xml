@@ -2,120 +2,120 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Py4E</title>
-    <link>/rss.xml</link>
+    <link>https://btopro.github.io/testtesttest/rss.xml</link>
     <description>Python for everyone!</description>
-    <copyright>Copyright (C) 2019 </copyright>
+    <copyright>Copyright (C) 2019 https://btopro.github.io/testtesttest</copyright>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Mar 2019 14:56:47 +0000</lastBuildDate>
-    <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://btopro.github.io/testtesttest/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Home</title>
-      <link>/lessons</link>
+      <link>https://btopro.github.io/testtesttest/lessons</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ HeaderHeaderHeader ]]>
       </description>
       <category></category>
-      <guid>/lessons</guid>
+      <guid>https://btopro.github.io/testtesttest/lessons</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Get started with this</title>
-      <link>/get-started</link>
+      <link>https://btopro.github.io/testtesttest/get-started</link>
       <description>
           <![CDATA[ Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ ]]>
       </description>
       <category></category>
-      <guid>/get-started</guid>
+      <guid>https://btopro.github.io/testtesttest/get-started</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Materials things</title>
-      <link>/materials</link>
+      <link>https://btopro.github.io/testtesttest/materials</link>
       <description>
           <![CDATA[ Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr ]]>
       </description>
       <category></category>
-      <guid>/materials</guid>
+      <guid>https://btopro.github.io/testtesttest/materials</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Instructordddd</title>
-      <link>/instructor2d</link>
+      <link>https://btopro.github.io/testtesttest/instructor2d</link>
       <description>
           <![CDATA[ This is a description ]]>
       </description>
       <category></category>
-      <guid>/instructor2d</guid>
+      <guid>https://btopro.github.io/testtesttest/instructor2d</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Book</title>
-      <link>/book</link>
+      <link>https://btopro.github.io/testtesttest/book</link>
       <description>
           <![CDATA[ Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp ]]>
       </description>
       <category></category>
-      <guid>/book</guid>
+      <guid>https://btopro.github.io/testtesttest/book</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Login</title>
-      <link>/login</link>
+      <link>https://btopro.github.io/testtesttest/login</link>
       <description>
           <![CDATA[ We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d ]]>
       </description>
       <category></category>
-      <guid>/login</guid>
+      <guid>https://btopro.github.io/testtesttest/login</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lesson 3: Data Description</title>
-      <link>/lesson-3</link>
+      <link>https://btopro.github.io/testtesttest/lesson-3</link>
       <description>
           <![CDATA[ Stop with all the things or whateverdfsdfsdsfsfsdfdfs ]]>
       </description>
       <category></category>
-      <guid>/lesson-3</guid>
+      <guid>https://btopro.github.io/testtesttest/lesson-3</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Program?</title>
-      <link>/why-program-</link>
+      <link>https://btopro.github.io/testtesttest/why-program-</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>/why-program-</guid>
+      <guid>https://btopro.github.io/testtesttest/why-program-</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Variables, expressions, and statements</title>
-      <link>/variables-expressions-and-statements</link>
+      <link>https://btopro.github.io/testtesttest/variables-expressions-and-statements</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>/variables-expressions-and-statements</guid>
+      <guid>https://btopro.github.io/testtesttest/variables-expressions-and-statements</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Conditional Execution</title>
-      <link>/conditional-execution</link>
+      <link>https://btopro.github.io/testtesttest/conditional-execution</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>/conditional-execution</guid>
+      <guid>https://btopro.github.io/testtesttest/conditional-execution</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Functions</title>
-      <link>/functions</link>
+      <link>https://btopro.github.io/testtesttest/functions</link>
       <description>
           <![CDATA[ Things and stuff but let's see why this doesn't render the below thing. ]]>
       </description>
       <category></category>
-      <guid>/functions</guid>
+      <guid>https://btopro.github.io/testtesttest/functions</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>

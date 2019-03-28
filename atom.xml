@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Py4E</title>
-  <link href="/atom.xml" rel="self" />
+  <link href="https://btopro.github.io/testtesttest/atom.xml" rel="self" />
   <subtitle>Python for everyone!</subtitle>
   <updated>2019-03-22T14:56:47+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
-  <id>/feed</id>
+  <id>https://btopro.github.io/testtesttest/feed</id>
   <entry>
     <title>Home</title>
-    <id>/lessons</id>
-    <updated>2019-03-28T13:51:39+00:00</updated>
+    <id>https://btopro.github.io/testtesttest/lessons</id>
+    <updated>2019-03-28T13:52:44+00:00</updated>
     <published>2019-03-15T11:56:59+00:00</published>
-    <summary></summary>
-    <link href="/lessons"/>
+    <summary>HeaderHeaderHeader</summary>
+    <link href="https://btopro.github.io/testtesttest/lessons"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ HeaderHeaderHeader ]]>
     </content>
   </entry>
   <entry>
     <title>Get started with this</title>
-    <id>/get-started</id>
+    <id>https://btopro.github.io/testtesttest/get-started</id>
     <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T11:56:41+00:00</published>
     <summary>Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ</summary>
-    <link href="/get-started"/>
+    <link href="https://btopro.github.io/testtesttest/get-started"/>
     
     <content type="html">
       <![CDATA[ Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ ]]>
@@ -34,11 +34,11 @@
   </entry>
   <entry>
     <title>Materials things</title>
-    <id>/materials</id>
+    <id>https://btopro.github.io/testtesttest/materials</id>
     <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T11:59:32+00:00</published>
     <summary>Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr</summary>
-    <link href="/materials"/>
+    <link href="https://btopro.github.io/testtesttest/materials"/>
     
     <content type="html">
       <![CDATA[ Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr ]]>
@@ -46,11 +46,11 @@
   </entry>
   <entry>
     <title>Instructordddd</title>
-    <id>/instructor2d</id>
+    <id>https://btopro.github.io/testtesttest/instructor2d</id>
     <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:01:05+00:00</published>
     <summary>This is a description</summary>
-    <link href="/instructor2d"/>
+    <link href="https://btopro.github.io/testtesttest/instructor2d"/>
     
     <content type="html">
       <![CDATA[ This is a description ]]>
@@ -58,11 +58,11 @@
   </entry>
   <entry>
     <title>Book</title>
-    <id>/book</id>
+    <id>https://btopro.github.io/testtesttest/book</id>
     <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:03:43+00:00</published>
     <summary>Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp</summary>
-    <link href="/book"/>
+    <link href="https://btopro.github.io/testtesttest/book"/>
     
     <content type="html">
       <![CDATA[ Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp ]]>
@@ -70,11 +70,11 @@
   </entry>
   <entry>
     <title>Login</title>
-    <id>/login</id>
+    <id>https://btopro.github.io/testtesttest/login</id>
     <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:03:48+00:00</published>
     <summary>We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d</summary>
-    <link href="/login"/>
+    <link href="https://btopro.github.io/testtesttest/login"/>
     
     <content type="html">
       <![CDATA[ We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d ]]>
@@ -82,11 +82,11 @@
   </entry>
   <entry>
     <title>Lesson 3: Data Description</title>
-    <id>/lesson-3</id>
+    <id>https://btopro.github.io/testtesttest/lesson-3</id>
     <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary>Stop with all the things or whateverdfsdfsdsfsfsdfdfs</summary>
-    <link href="/lesson-3"/>
+    <link href="https://btopro.github.io/testtesttest/lesson-3"/>
     
     <content type="html">
       <![CDATA[ Stop with all the things or whateverdfsdfsdsfsfsdfdfs ]]>
@@ -94,11 +94,11 @@
   </entry>
   <entry>
     <title>Why Program?</title>
-    <id>/why-program-</id>
+    <id>https://btopro.github.io/testtesttest/why-program-</id>
     <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary></summary>
-    <link href="/why-program-"/>
+    <link href="https://btopro.github.io/testtesttest/why-program-"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -106,11 +106,11 @@
   </entry>
   <entry>
     <title>Variables, expressions, and statements</title>
-    <id>/variables-expressions-and-statements</id>
+    <id>https://btopro.github.io/testtesttest/variables-expressions-and-statements</id>
     <updated>2019-03-27T20:00:51+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary></summary>
-    <link href="/variables-expressions-and-statements"/>
+    <link href="https://btopro.github.io/testtesttest/variables-expressions-and-statements"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -118,11 +118,11 @@
   </entry>
   <entry>
     <title>Conditional Execution</title>
-    <id>/conditional-execution</id>
+    <id>https://btopro.github.io/testtesttest/conditional-execution</id>
     <updated>2019-03-22T14:56:47+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary></summary>
-    <link href="/conditional-execution"/>
+    <link href="https://btopro.github.io/testtesttest/conditional-execution"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -130,11 +130,11 @@
   </entry>
   <entry>
     <title>Functions</title>
-    <id>/functions</id>
+    <id>https://btopro.github.io/testtesttest/functions</id>
     <updated>2019-03-22T15:01:53+00:00</updated>
     <published>2019-03-15T12:06:47+00:00</published>
     <summary>Things and stuff but let's see why this doesn't render the below thing.</summary>
-    <link href="/functions"/>
+    <link href="https://btopro.github.io/testtesttest/functions"/>
     
     <content type="html">
       <![CDATA[ Things and stuff but let's see why this doesn't render the below thing. ]]>
