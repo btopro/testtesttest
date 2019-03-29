@@ -147,6 +147,14 @@
                         "type": "image\/jpeg",
                         "name": "csev_ian_dolphin_small.jpg",
                         "size": 18507
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/MAH00348.MP4",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/MAH00348.MP4",
+                        "url": "files\/MAH00348.MP4",
+                        "type": "audio\/mp4",
+                        "name": "MAH00348.MP4",
+                        "size": 2454880
                     }
                 ],
                 "fields": {
