@@ -139,6 +139,14 @@
                         "type": "image\/png",
                         "name": "2019-03-28_18-16-36.png",
                         "size": 35074
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
+                        "url": "files\/csev_ian_dolphin_small.jpg",
+                        "type": "image\/jpeg",
+                        "name": "csev_ian_dolphin_small.jpg",
+                        "size": 18507
                     }
                 ],
                 "fields": {
