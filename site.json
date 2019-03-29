@@ -377,6 +377,14 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20181228_113330.jpg",
                         "size": 63981
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/HAXCms workflow.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/HAXCms workflow.jpg",
+                        "url": "files\/HAXCms workflow.jpg",
+                        "type": "image\/jpeg",
+                        "name": "HAXCms workflow.jpg",
+                        "size": 72736
                     }
                 ]
             }
