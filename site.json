@@ -327,10 +327,10 @@
             "order": 1,
             "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
             "title": "Variables, expressions, and statements",
-            "description": "",
+            "description": "  ",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1553783612,
+                "updated": 1553871669,
                 "fields": {
                     "images": {
                         "0": {
