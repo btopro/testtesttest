@@ -6,6 +6,18 @@
 <site-top-menu noink indicator="arrow" arrow-size="8">
   <site-title slot="prefix" class="spacing"></site-title>
 </site-top-menu>
+<site-query result="{{__items}}" entity="metadata.fields.tags"></site-query>
+<iron-list items="[[__items]]" as="item">
+  <template>
+    <span>[[item.name]] ([[item._node.title]])</span>
+  </template>
+</iron-list>
+<site-query result="{{__items2}}" entity="metadata.files" conditions='{"type": "audio/mp4"}'>
+<iron-list items="[[__items2]]" as="item">
+  <template>
+    <span>[[item.name]] ([[item._node.title]])</span>
+  </template>
+</iron-list>
 <site-recent-content-block limit="2"></site-recent-content-block>
 <div class="container">
   <site-breadcrumb></site-breadcrumb>

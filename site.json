@@ -76,7 +76,7 @@
                             "property": "src",
                             "title": "Source",
                             "description": "The URL for the image",
-                            "inputMethod": "textfield"
+                            "inputMethod": "haxupload"
                         },
                         {
                             "property": "alt",
@@ -92,6 +92,22 @@
                     "description": "An additional subtitle",
                     "inputMethod": "textfield",
                     "icon": "editor:text-fields"
+                },
+                {
+                    "property": "tags",
+                    "description": "Tags for the page",
+                    "required": false,
+                    "icon": "image:collections",
+                    "title": "Tags",
+                    "inputMethod": "array",
+                    "properties": [
+                        {
+                            "property": "tag",
+                            "title": "Tag",
+                            "description": "Individual tag",
+                            "inputMethod": "textfield"
+                        }
+                    ]
                 }
             ]
         }
@@ -157,6 +173,14 @@
                         "type": "audio\/mp4",
                         "name": "MAH00348.MP4",
                         "size": 2454880
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
+                        "url": "files\/csev_ian_dolphin_small.jpg",
+                        "type": "image\/jpeg",
+                        "name": "csev_ian_dolphin_small.jpg",
+                        "size": 18507
                     },
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",

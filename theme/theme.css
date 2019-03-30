@@ -121,7 +121,8 @@
     }
   }
   site-recent-content-block {
-    
+    width:50%;
+    margin: 0 auto;
   }
   scroll-button {
     position: fixed;
