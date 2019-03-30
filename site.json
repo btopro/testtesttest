@@ -246,7 +246,19 @@
             "description": "Free\/Open Course Materials            You are welcome to use\/reuse\/remix\/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr",
             "metadata": {
                 "created": 1552651172,
-                "updated": 1553266607
+                "updated": 1553967001,
+                "fields": {
+                    "images": {},
+                    "subtitle": "",
+                    "tags": {
+                        "0": {
+                            "tag": "stuff"
+                        },
+                        "1": {
+                            "tag": "cool"
+                        }
+                    }
+                }
             }
         },
         {
