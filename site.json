@@ -124,7 +124,7 @@
             "metadata": {
                 "type": "news",
                 "created": 1552651019,
-                "updated": 1553870200,
+                "updated": 1553965211,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -194,7 +194,8 @@
                 "fields": {
                     "images": {},
                     "subtitle": "fsdsdfdfsdsf",
-                    "accentColor": "green"
+                    "accentColor": "green",
+                    "tags": {}
                 },
                 "theme": {
                     "element": "haxcms-minimalist-theme",
