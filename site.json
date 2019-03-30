@@ -355,7 +355,7 @@
             "description": "  ",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1553871750,
+                "updated": 1553966987,
                 "fields": {
                     "images": {
                         "0": {
@@ -368,7 +368,12 @@
                         }
                     },
                     "subtitle": "Collins will flip out",
-                    "accentColor": ""
+                    "accentColor": "",
+                    "tags": {
+                        "0": {
+                            "tag": "cool"
+                        }
+                    }
                 },
                 "files": [
                     {
