@@ -6,16 +6,21 @@
 <site-top-menu noink indicator="arrow" arrow-size="8">
   <site-title slot="prefix" class="spacing"></site-title>
 </site-top-menu>
-<site-query result="{{__items}}" entity="metadata.fields.tags"></site-query>
+<site-query result="{{__items}}" entity="metadata.fields.tags" conditions='{"_node.id":"$activeId"}'></site-query>
 <iron-list items="[[__items]]" as="item">
   <template>
-    <span>[[item.name]] ([[item._node.title]])</span>
+    <span>[[item.tag]] ([[item._node.title]])</span>
   </template>
 </iron-list>
-<site-query result="{{__items2}}" entity="metadata.files" conditions='{"type": "audio/mp4"}'>
-<iron-list items="[[__items2]]" as="item">
+<site-query result="{{__items2}}" entity="metadata.files" conditions='{"_node.id":"$activeId", "type": "image/jpeg"}'>
+<iron-list items="[[__items2]]" as="item" grid>
   <template>
-    <span>[[item.name]] ([[item._node.title]])</span>
+    <paper-card heading="[[item._node.title]]" image="[[item.url]]" elevation="2" animated-shadow="false" style="width:300px;">
+      <div class="card-content"></div>
+      <div class="card-actions">
+    
+      </div>
+    </paper-card>
   </template>
 </iron-list>
 <site-recent-content-block limit="2"></site-recent-content-block>
