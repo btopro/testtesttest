@@ -197,6 +197,14 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20181228_114109.jpg",
                         "size": 26459
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190307_142259.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/IMG_20190307_142259.jpg",
+                        "url": "files\/IMG_20190307_142259.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190307_142259.jpg",
+                        "size": 179848
                     }
                 ],
                 "fields": {
