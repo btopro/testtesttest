@@ -205,6 +205,14 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20190307_142259.jpg",
                         "size": 179848
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/scale-50\/IMG_20190127_153429.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/scale-50\/IMG_20190127_153429.jpg",
+                        "url": "files\/scale-50\/IMG_20190127_153429.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190127_153429.jpg",
+                        "size": 27242
                     }
                 ],
                 "fields": {
