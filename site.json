@@ -60,7 +60,7 @@
             "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
             "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js"
         },
-        "lastPublished": 1554046028,
+        "lastPublished": 1554046052,
         "icon": "icons:save",
         "fields": {
             "configure": [
@@ -189,6 +189,14 @@
                         "type": "image\/jpeg",
                         "name": "csev_ian_dolphin_small.jpg",
                         "size": 18507
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/IMG_20181228_114109.jpg",
+                        "url": "files\/IMG_20181228_114109.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20181228_114109.jpg",
+                        "size": 26459
                     }
                 ],
                 "fields": {
@@ -196,12 +204,6 @@
                     "subtitle": "fsdsdfdfsdsf",
                     "accentColor": "green",
                     "tags": {}
-                },
-                "theme": {
-                    "element": "haxcms-minimalist-theme",
-                    "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
-                    "name": "Minimalist site",
-                    "key": "haxcms-minimalist-theme"
                 }
             }
         },
