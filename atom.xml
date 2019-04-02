@@ -21,42 +21,6 @@
     </content>
   </entry>
   <entry>
-    <title>Functions</title>
-    <id>https://btopro.github.io/testtesttest/functions</id>
-    <updated>2019-04-02T00:32:45+00:00</updated>
-    <published>2019-03-15T12:06:47+00:00</published>
-    <summary>Things and stuff but let's see why this doesn't render the below thing.</summary>
-    <link href="https://btopro.github.io/testtesttest/functions"/>
-    
-    <content type="html">
-      <![CDATA[ Things and stuff but let's see why this doesn't render the below thing. ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Conditional Execution</title>
-    <id>https://btopro.github.io/testtesttest/conditional-execution</id>
-    <updated>2019-04-02T00:32:45+00:00</updated>
-    <published>2019-03-15T12:06:47+00:00</published>
-    <summary>Ex uno Plures</summary>
-    <link href="https://btopro.github.io/testtesttest/conditional-execution"/>
-    
-    <content type="html">
-      <![CDATA[ Ex uno Plures ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Variables, expressions, and statements</title>
-    <id>https://btopro.github.io/testtesttest/variables-expressions-and-statements</id>
-    <updated>2019-04-02T00:32:45+00:00</updated>
-    <published>2019-03-15T12:06:47+00:00</published>
-    <summary>  </summary>
-    <link href="https://btopro.github.io/testtesttest/variables-expressions-and-statements"/>
-    
-    <content type="html">
-      <![CDATA[    ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Lesson 3: Data Description</title>
     <id>https://btopro.github.io/testtesttest/lesson-3</id>
     <updated>2019-04-02T00:32:45+00:00</updated>
@@ -69,15 +33,15 @@
     </content>
   </entry>
   <entry>
-    <title>more of the same</title>
-    <id>https://btopro.github.io/testtesttest/more-of-the-same</id>
-    <updated>2019-04-02T00:32:45+00:00</updated>
-    <published>2019-04-02T00:32:45+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/more-of-the-same"/>
+    <title>Why Program?</title>
+    <id>https://btopro.github.io/testtesttest/why-program-</id>
+    <updated>2019-04-02T00:34:57+00:00</updated>
+    <published>2019-03-15T12:06:47+00:00</published>
+    <summary>Ex uno Pluressdadadadada</summary>
+    <link href="https://btopro.github.io/testtesttest/why-program-"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Ex uno Pluressdadadadada ]]>
     </content>
   </entry>
   <entry>
@@ -105,15 +69,63 @@
     </content>
   </entry>
   <entry>
-    <title>Why Program?</title>
-    <id>https://btopro.github.io/testtesttest/why-program-</id>
-    <updated>2019-04-02T00:34:57+00:00</updated>
-    <published>2019-03-15T12:06:47+00:00</published>
-    <summary>Ex uno Pluressdadadadada</summary>
-    <link href="https://btopro.github.io/testtesttest/why-program-"/>
+    <title>more of the same</title>
+    <id>https://btopro.github.io/testtesttest/more-of-the-same</id>
+    <updated>2019-04-02T00:32:45+00:00</updated>
+    <published>2019-04-02T00:32:45+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/testtesttest/more-of-the-same"/>
     
     <content type="html">
-      <![CDATA[ Ex uno Pluressdadadadada ]]>
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Variables, expressions, and statements</title>
+    <id>https://btopro.github.io/testtesttest/variables-expressions-and-statements</id>
+    <updated>2019-04-02T00:32:45+00:00</updated>
+    <published>2019-03-15T12:06:47+00:00</published>
+    <summary>  </summary>
+    <link href="https://btopro.github.io/testtesttest/variables-expressions-and-statements"/>
+    
+    <content type="html">
+      <![CDATA[    ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Conditional Execution</title>
+    <id>https://btopro.github.io/testtesttest/conditional-execution</id>
+    <updated>2019-04-02T00:32:45+00:00</updated>
+    <published>2019-03-15T12:06:47+00:00</published>
+    <summary>Ex uno Plures</summary>
+    <link href="https://btopro.github.io/testtesttest/conditional-execution"/>
+    
+    <content type="html">
+      <![CDATA[ Ex uno Plures ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Functions</title>
+    <id>https://btopro.github.io/testtesttest/functions</id>
+    <updated>2019-04-02T00:32:45+00:00</updated>
+    <published>2019-03-15T12:06:47+00:00</published>
+    <summary>Things and stuff but let's see why this doesn't render the below thing.</summary>
+    <link href="https://btopro.github.io/testtesttest/functions"/>
+    
+    <content type="html">
+      <![CDATA[ Things and stuff but let's see why this doesn't render the below thing. ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>fsddsffds</title>
+    <id>https://btopro.github.io/testtesttest/dfsfff</id>
+    <updated>2019-04-02T00:34:02+00:00</updated>
+    <published>2019-04-02T00:34:02+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/testtesttest/dfsfff"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
   <entry>
@@ -129,18 +141,6 @@
     </content>
   </entry>
   <entry>
-    <title>Materials things</title>
-    <id>https://btopro.github.io/testtesttest/materials</id>
-    <updated>2019-04-02T00:32:45+00:00</updated>
-    <published>2019-03-15T11:59:32+00:00</published>
-    <summary>Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr</summary>
-    <link href="https://btopro.github.io/testtesttest/materials"/>
-    
-    <content type="html">
-      <![CDATA[ Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Instructordddd</title>
     <id>https://btopro.github.io/testtesttest/instructor2d</id>
     <updated>2019-04-02T00:32:45+00:00</updated>
@@ -150,6 +150,18 @@
     
     <content type="html">
       <![CDATA[ This is a description ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Materials things</title>
+    <id>https://btopro.github.io/testtesttest/materials</id>
+    <updated>2019-04-02T00:32:45+00:00</updated>
+    <published>2019-03-15T11:59:32+00:00</published>
+    <summary>Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr</summary>
+    <link href="https://btopro.github.io/testtesttest/materials"/>
+    
+    <content type="html">
+      <![CDATA[ Free/Open Course Materials            You are welcome to use/reuse/remix/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr ]]>
     </content>
   </entry>
   <entry>
@@ -167,25 +179,13 @@
   <entry>
     <title>Login</title>
     <id>https://btopro.github.io/testtesttest/login</id>
-    <updated>2019-04-02T00:32:45+00:00</updated>
+    <updated>2019-04-02T00:37:48+00:00</updated>
     <published>2019-03-15T12:03:48+00:00</published>
     <summary>We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d</summary>
     <link href="https://btopro.github.io/testtesttest/login"/>
     
     <content type="html">
       <![CDATA[ We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>fsddsffds</title>
-    <id>https://btopro.github.io/testtesttest/dfsfff</id>
-    <updated>2019-04-02T00:34:02+00:00</updated>
-    <published>2019-04-02T00:34:02+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/dfsfff"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>
