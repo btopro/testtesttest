@@ -6,7 +6,7 @@
     <description>Python for everyone!</description>
     <copyright>Copyright (C) 2019 https://btopro.github.io/testtesttest</copyright>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2019 00:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2019 00:32:45 +0000</lastBuildDate>
     <atom:link href="https://btopro.github.io/testtesttest/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Home</title>
@@ -16,6 +16,36 @@
       </description>
       <category></category>
       <guid>https://btopro.github.io/testtesttest/lessons</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Functions</title>
+      <link>https://btopro.github.io/testtesttest/functions</link>
+      <description>
+          <![CDATA[ Things and stuff but let's see why this doesn't render the below thing. ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/testtesttest/functions</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conditional Execution</title>
+      <link>https://btopro.github.io/testtesttest/conditional-execution</link>
+      <description>
+          <![CDATA[ Ex uno Plures ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/testtesttest/conditional-execution</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Variables, expressions, and statements</title>
+      <link>https://btopro.github.io/testtesttest/variables-expressions-and-statements</link>
+      <description>
+          <![CDATA[    ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/testtesttest/variables-expressions-and-statements</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -29,13 +59,13 @@
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Program?</title>
-      <link>https://btopro.github.io/testtesttest/why-program-</link>
+      <title>more of the same</title>
+      <link>https://btopro.github.io/testtesttest/more-of-the-same</link>
       <description>
-          <![CDATA[ Ex uno Plures ]]>
+          <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/why-program-</guid>
+      <guid>https://btopro.github.io/testtesttest/more-of-the-same</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -59,43 +89,13 @@
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>more of the same</title>
-      <link>https://btopro.github.io/testtesttest/more-of-the-same</link>
+      <title>Why Program?</title>
+      <link>https://btopro.github.io/testtesttest/why-program-</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ Ex uno Pluressdadadadada ]]>
       </description>
       <category></category>
-      <guid>https://btopro.github.io/testtesttest/more-of-the-same</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Variables, expressions, and statements</title>
-      <link>https://btopro.github.io/testtesttest/variables-expressions-and-statements</link>
-      <description>
-          <![CDATA[    ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.github.io/testtesttest/variables-expressions-and-statements</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conditional Execution</title>
-      <link>https://btopro.github.io/testtesttest/conditional-execution</link>
-      <description>
-          <![CDATA[ Ex uno Plures ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.github.io/testtesttest/conditional-execution</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Functions</title>
-      <link>https://btopro.github.io/testtesttest/functions</link>
-      <description>
-          <![CDATA[ Things and stuff but let's see why this doesn't render the below thing. ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.github.io/testtesttest/functions</guid>
+      <guid>https://btopro.github.io/testtesttest/why-program-</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -146,6 +146,16 @@
       </description>
       <category></category>
       <guid>https://btopro.github.io/testtesttest/login</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>fsddsffds</title>
+      <link>https://btopro.github.io/testtesttest/dfsfff</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/testtesttest/dfsfff</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>
