@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>My site</title>
   <script type="text/javascript">
-    document.write("<base href='" + document.location.pathname.replace('index.html', '') + "' />");
+    document.write("<base href='" + document.location.pathname.substring(0, document.location.pathname.indexOf('/', 8)) + "/' />");
   </script>
   <link rel="preconnect" crossorigin href="https://fonts.googleapis.com">
   <link rel="preconnect" crossorigin href="https://cdnjs.cloudflare.com">
@@ -108,16 +108,6 @@
     link.type = 'text/css';
     var def = document.getElementsByTagName('link')[0];
     def.parentNode.insertBefore(link, def);
-    // when haxcms is ready, let's append this path
-    window.addEventListener("haxcms-ready", (e) => {
-      setTimeout(() => {
-        // discover this path downstream of the root of the domain
-        var swScope = window.location.pathname.substring(0, window.location.pathname.indexOf(e.detail.manifest.metadata.siteName)) + e.detail.manifest.metadata.siteName + '/';
-        if (swScope != document.head.getElementsByTagName('base')[0].href) {
-          document.head.getElementsByTagName('base')[0].href = swScope;
-        }
-      }, 100);
-    });
   </script>
   <script>if(old)document.write('<!--');</script>
   <script type="module" src="build/es6/dist/build.js"></script>
