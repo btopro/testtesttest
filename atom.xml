@@ -3,7 +3,7 @@
   <title>Py4E</title>
   <link href="https://btopro.github.io/testtesttest/atom.xml" rel="self" />
   <subtitle>Python for everyone!</subtitle>
-  <updated>2019-04-02T00:32:45+00:00</updated>
+  <updated>2019-04-03T18:16:22+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -59,13 +59,13 @@
   <entry>
     <title>or is it</title>
     <id>https://btopro.github.io/testtesttest/or-is-it</id>
-    <updated>2019-04-02T00:32:45+00:00</updated>
+    <updated>2019-04-03T18:16:49+00:00</updated>
     <published>2019-04-02T00:32:45+00:00</published>
-    <summary></summary>
+    <summary>Ex uno Plures</summary>
     <link href="https://btopro.github.io/testtesttest/or-is-it"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Ex uno Plures ]]>
     </content>
   </entry>
   <entry>
