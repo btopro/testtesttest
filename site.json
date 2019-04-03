@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1554315382,
+        "updated": 1554315745,
         "domain": "https:\/\/btopro.github.io\/testtesttest",
         "theme": {
             "element": "simple-blog",
@@ -124,7 +124,7 @@
             "metadata": {
                 "type": "news",
                 "created": 1552651019,
-                "updated": 1554165165,
+                "updated": 1554315744,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -241,7 +241,7 @@
             "description": "Stop with all the things or whateverdfsdfsdsfsfsdfdfs",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1554165165,
+                "updated": 1554315744,
                 "fields": {
                     "images": {
                         "0": {
@@ -271,11 +271,11 @@
             "location": "pages\/why-program-\/index.html",
             "order": 0,
             "parent": "item-6ee97fe8-3060-4856-9c24-ecdb29eac43d",
-            "title": "Why Program?",
+            "title": "Why Program?gggg",
             "description": "Ex uno Pluressdadadadada",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1554165297
+                "updated": 1554315744
             }
         },
         {
@@ -288,7 +288,7 @@
             "description": "",
             "metadata": {
                 "created": 1554165101,
-                "updated": 1554165165
+                "updated": 1554315744
             }
         },
         {
@@ -301,7 +301,7 @@
             "description": "Ex uno Plures",
             "metadata": {
                 "created": 1554165165,
-                "updated": 1554315716
+                "updated": 1554315744
             }
         },
         {
@@ -314,7 +314,7 @@
             "description": "",
             "metadata": {
                 "created": 1554165165,
-                "updated": 1554165165
+                "updated": 1554315744
             }
         },
         {
@@ -327,7 +327,7 @@
             "description": "  ",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1554165165,
+                "updated": 1554315744,
                 "fields": {
                     "images": {
                         "0": {
@@ -401,7 +401,7 @@
             "description": "Ex uno Plures",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1554165165
+                "updated": 1554315744
             }
         },
         {
@@ -414,7 +414,7 @@
             "description": "Things and stuff but let's see why this doesn't render the below thing.",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1554165165,
+                "updated": 1554315744,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -431,26 +431,26 @@
             "id": "item-8c8fde3b-8400-42f5-a36a-f69c1a383841",
             "indent": 0,
             "location": "pages\/dfsfff\/index.html",
-            "order": 0,
+            "order": 1,
             "parent": null,
             "title": "fsddsffds",
             "description": "",
             "metadata": {
                 "created": 1554165242,
-                "updated": 1554165242
+                "updated": 1554315744
             }
         },
         {
             "id": "item-8078480b-f6b5-48ee-ac20-de1d7facc20e",
             "indent": 0,
             "location": "pages\/get-started\/index.html",
-            "order": 1,
+            "order": 2,
             "parent": null,
             "title": "Get started with this",
             "description": "Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ",
             "metadata": {
                 "created": 1552651001,
-                "updated": 1554165165,
+                "updated": 1554315744,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/2019-02-20_01-26-10.png",
@@ -475,13 +475,13 @@
             "id": "item-3dbea5f4-4bd8-4177-b777-1c93e9248718",
             "indent": 0,
             "location": "pages\/instructor2d\/index.html",
-            "order": 2,
+            "order": 3,
             "parent": null,
             "title": "Instructordddd",
             "description": "This is a description",
             "metadata": {
                 "created": 1552651265,
-                "updated": 1554165165,
+                "updated": 1554315744,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
@@ -498,13 +498,13 @@
             "id": "item-a1c240ba-4a6c-4e59-8342-fd32dde3e86a",
             "indent": 0,
             "location": "pages\/materials\/index.html",
-            "order": 3,
+            "order": 4,
             "parent": null,
             "title": "Materials things",
             "description": "Free\/Open Course Materials            You are welcome to use\/reuse\/remix\/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr",
             "metadata": {
                 "created": 1552651172,
-                "updated": 1554165165,
+                "updated": 1554315744,
                 "fields": {
                     "images": {},
                     "subtitle": "",
@@ -523,26 +523,26 @@
             "id": "item-e6b35505-61b4-48d3-b683-42f85015e261",
             "indent": 0,
             "location": "pages\/book\/index.html",
-            "order": 4,
+            "order": 5,
             "parent": null,
             "title": "Book",
             "description": "Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp",
             "metadata": {
                 "created": 1552651423,
-                "updated": 1554165165
+                "updated": 1554315745
             }
         },
         {
             "id": "item-ed7d34ba-4aa1-46a3-8d5c-9d7f96020700",
             "indent": 0,
             "location": "pages\/login\/index.html",
-            "order": 5,
+            "order": 6,
             "parent": null,
             "title": "Login",
             "description": "We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d",
             "metadata": {
                 "created": 1552651428,
-                "updated": 1554165468
+                "updated": 1554315745
             }
         }
     ]
