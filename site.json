@@ -542,7 +542,17 @@
             "description": "Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp",
             "metadata": {
                 "created": 1552651423,
-                "updated": 1554490759
+                "updated": 1554490759,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/scale-50\/IMG_20181228_114109.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/scale-50\/IMG_20181228_114109.jpg",
+                        "url": "files\/scale-50\/IMG_20181228_114109.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20181228_114109.jpg",
+                        "size": 26459
+                    }
+                ]
             }
         },
         {
