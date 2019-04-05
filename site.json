@@ -7,12 +7,12 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1554491671,
+        "updated": 1554492105,
         "domain": "https:\/\/btopro.github.io\/testtesttest",
         "theme": {
-            "element": "simple-blog",
-            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
-            "name": "Simple blog"
+            "element": "haxcms-basic-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
+            "name": "Basic site"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#ee0000",
