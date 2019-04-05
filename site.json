@@ -237,6 +237,14 @@
                         "type": "image\/png",
                         "name": "12715666.png",
                         "size": 49818
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/scale-50\/D2xiZweX0AEGj-I.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/scale-50\/D2xiZweX0AEGj-I.jpg",
+                        "url": "files\/scale-50\/D2xiZweX0AEGj-I.jpg",
+                        "type": "image\/jpeg",
+                        "name": "D2xiZweX0AEGj-I.jpg",
+                        "size": 103051
                     }
                 ],
                 "fields": {
