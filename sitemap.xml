@@ -1,101 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator="icamys/SitemapGenerator/1.0.0" -->
 <!-- sitemap-generator-version="1.0.0" -->
-<!-- generated-on="2019-04-05T19:17:00+00:00" -->
+<!-- generated-on="2019-04-05T19:22:03+00:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9                                  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://btopro.github.io/testtesttest/lessons</loc>
-    <lastmod>2019-04-05T18:59:18+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:02+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/lesson-3</loc>
-    <lastmod>2019-04-05T18:59:18+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:02+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/why-program-</loc>
-    <lastmod>2019-04-05T18:59:18+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:02+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/new-things</loc>
-    <lastmod>2019-04-05T18:59:18+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:02+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/or-is-it</loc>
-    <lastmod>2019-04-05T18:59:18+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:02+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/dfsdfsdfsdfsdfs</loc>
-    <lastmod>2019-04-05T18:59:18+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:02+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/more-of-the-same</loc>
-    <lastmod>2019-04-05T18:59:18+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/variables-expressions-and-statements</loc>
-    <lastmod>2019-04-05T18:59:18+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/conditional-execution</loc>
-    <lastmod>2019-04-05T18:59:18+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/functions</loc>
-    <lastmod>2019-04-05T18:59:18+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/dfsfff</loc>
-    <lastmod>2019-04-05T18:59:19+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/get-started</loc>
-    <lastmod>2019-04-05T18:59:19+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/instructor2d</loc>
-    <lastmod>2019-04-05T18:59:19+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/materials</loc>
-    <lastmod>2019-04-05T18:59:19+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/book</loc>
-    <lastmod>2019-04-05T19:17:00+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://btopro.github.io/testtesttest/login</loc>
-    <lastmod>2019-04-05T19:15:12+00:00</lastmod>
+    <lastmod>2019-04-05T19:22:03+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
