@@ -229,6 +229,14 @@
                         "type": "image\/jpeg",
                         "name": "59453a821222752c90fa970c937c2c396bff61f5-ngdle-university-faculty-side.jpg",
                         "size": 51809
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/scale-50\/12715666.png",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/scale-50\/12715666.png",
+                        "url": "files\/scale-50\/12715666.png",
+                        "type": "image\/png",
+                        "name": "12715666.png",
+                        "size": 49818
                     }
                 ],
                 "fields": {
