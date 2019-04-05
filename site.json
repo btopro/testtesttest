@@ -555,7 +555,17 @@
             "description": "We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d",
             "metadata": {
                 "created": 1552651428,
-                "updated": 1554490759
+                "updated": 1554490759,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/scale-50\/csev_ian_dolphin_small.jpg",
+                        "fullUrl": "\/_sites\/testtesttest\/files\/scale-50\/csev_ian_dolphin_small.jpg",
+                        "url": "files\/scale-50\/csev_ian_dolphin_small.jpg",
+                        "type": "image\/jpeg",
+                        "name": "csev_ian_dolphin_small.jpg",
+                        "size": 18507
+                    }
+                ]
             }
         }
     ]
