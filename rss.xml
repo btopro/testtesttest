@@ -6,7 +6,7 @@
     <description>Python for everyone!</description>
     <copyright>Copyright (C) 2019 https://btopro.github.io/testtesttest</copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Apr 2019 19:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2019 17:28:03 +0000</lastBuildDate>
     <atom:link href="https://btopro.github.io/testtesttest/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Hddddome</title>
@@ -36,6 +36,16 @@
       </description>
       <category></category>
       <guid>https://btopro.github.io/testtesttest/why-program-</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>dffdgdfg</title>
+      <link>https://btopro.github.io/testtesttest/dffdgdfg</link>
+      <description>
+          <![CDATA[ Ex uno PluresIntroduction to ELMS: Learning NetworkWhat is ELMS: Learning Network? How is it fundamentally different from other learning technologies? Why is it your reading this when it's example t ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/testtesttest/dffdgdfg</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -166,16 +176,6 @@
       </description>
       <category></category>
       <guid>https://btopro.github.io/testtesttest/login</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>dffdgdfg</title>
-      <link>https://btopro.github.io/testtesttest/dffdgdfg</link>
-      <description>
-          <![CDATA[  ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.github.io/testtesttest/dffdgdfg</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>

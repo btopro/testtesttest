@@ -3,7 +3,7 @@
   <title>Py4E</title>
   <link href="https://btopro.github.io/testtesttest/atom.xml" rel="self" />
   <subtitle>Python for everyone!</subtitle>
-  <updated>2019-04-05T19:22:03+00:00</updated>
+  <updated>2019-04-11T17:28:03+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -42,6 +42,18 @@
     
     <content type="html">
       <![CDATA[ Ex uno Pluressdadadadada ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>dffdgdfg</title>
+    <id>https://btopro.github.io/testtesttest/dffdgdfg</id>
+    <updated>2019-04-11T17:28:33+00:00</updated>
+    <published>2019-04-11T17:28:03+00:00</published>
+    <summary>Ex uno PluresIntroduction to ELMS: Learning NetworkWhat is ELMS: Learning Network? How is it fundamentally different from other learning technologies? Why is it your reading this when it's example t</summary>
+    <link href="https://btopro.github.io/testtesttest/dffdgdfg"/>
+    
+    <content type="html">
+      <![CDATA[ Ex uno PluresIntroduction to ELMS: Learning NetworkWhat is ELMS: Learning Network? How is it fundamentally different from other learning technologies? Why is it your reading this when it's example t ]]>
     </content>
   </entry>
   <entry>
@@ -198,18 +210,6 @@
     
     <content type="html">
       <![CDATA[ We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>dffdgdfg</title>
-    <id>https://btopro.github.io/testtesttest/dffdgdfg</id>
-    <updated>2019-04-11T17:28:03+00:00</updated>
-    <published>2019-04-11T17:28:03+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/dffdgdfg"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>
