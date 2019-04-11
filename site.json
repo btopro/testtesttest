@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1555003683,
+        "updated": 1555003967,
         "domain": "https:\/\/btopro.github.io\/testtesttest",
         "theme": {
             "element": "haxcms-basic-theme",
@@ -108,6 +108,16 @@
                             "inputMethod": "textfield"
                         }
                     ]
+                }
+            ],
+            "advanced": [
+                {
+                    "inputMethod": "number",
+                    "property": "sads",
+                    "title": "dsdasads",
+                    "description": "asdadsasd",
+                    "required": true,
+                    "icon": "editor:format-color-fill"
                 }
             ]
         }
