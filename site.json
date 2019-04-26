@@ -12,7 +12,13 @@
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
-            "name": "Basic site"
+            "name": "Basic theme"
+        },
+        "author": {
+            "name": "Bryan Ollendyke",
+            "image": "https:\/\/btopro.com\/assets\/banner.jpg",
+            "bio": "Crazy, dreaming the world into existance we need, not what we have.",
+            "socialLink": "https:\/\/twitter.com\/btopro"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#ee0000",
@@ -134,7 +140,7 @@
             "metadata": {
                 "type": "news",
                 "created": 1552651019,
-                "updated": 1555003682,
+                "updated": 1556290578,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -270,7 +276,8 @@
                     "subtitle": "fsdsdfdfsdsf",
                     "accentColor": "green",
                     "tags": {}
-                }
+                },
+                "readtime": 1
             }
         },
         {
