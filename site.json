@@ -288,10 +288,10 @@
             "order": 0,
             "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
             "title": "Lesson 3: Data Description",
-            "description": "Stop with all the things or whateverdfsdfsdsfsfsdfdfs",
+            "description": "Stop with all the things or whateverdfsdfsdsfsfsdfdfsHeadingA paragraph of text would go here to describe the work.",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1555003682,
+                "updated": 1557803498,
                 "fields": {
                     "images": {
                         "0": {
@@ -312,7 +312,8 @@
                         "name": "2019-03-12_16-45-51.png",
                         "size": 212153
                     }
-                ]
+                ],
+                "readtime": 1
             }
         },
         {
