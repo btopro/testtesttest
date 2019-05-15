@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1557947725,
+        "updated": 1557947771,
         "domain": "https:\/\/btopro.github.io\/testtesttest",
         "theme": {
             "element": "haxcms-basic-theme",
@@ -141,7 +141,7 @@
             "metadata": {
                 "type": "news",
                 "created": 1552651019,
-                "updated": 1557803404,
+                "updated": 1557947770,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -291,7 +291,7 @@
             "description": "Stop with all the things or whateverdfsdfsdsfsfsdfdfsHeadingA paragraph of text would go here to describe the work.",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1557947705,
+                "updated": 1557947770,
                 "fields": {
                     "images": {
                         "0": {
@@ -334,7 +334,7 @@
             "description": "Ex uno Pluressdadadadada",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1555003682
+                "updated": 1557947770
             }
         },
         {
@@ -347,7 +347,7 @@
             "description": "Ex uno PluresIntroduction to ELMS: Learning NetworkWhat is ELMS: Learning Network? How is it fundamentally different from other learning technologies? Why is it your reading this when it&#39;s example t",
             "metadata": {
                 "created": 1555003683,
-                "updated": 1555003781,
+                "updated": 1557947770,
                 "fields": {
                     "images": {},
                     "subtitle": "sdffdsdsf",
@@ -369,7 +369,7 @@
             "description": "",
             "metadata": {
                 "created": 1554165101,
-                "updated": 1555003683
+                "updated": 1557947770
             }
         },
         {
@@ -382,7 +382,7 @@
             "description": "Ex uno Plures",
             "metadata": {
                 "created": 1554165165,
-                "updated": 1555003683
+                "updated": 1557947770
             }
         },
         {
@@ -395,7 +395,7 @@
             "description": "",
             "metadata": {
                 "created": 1554490758,
-                "updated": 1555003683
+                "updated": 1557947770
             }
         },
         {
@@ -408,20 +408,111 @@
             "description": "",
             "metadata": {
                 "created": 1554165165,
-                "updated": 1555003683
+                "updated": 1557947770
+            }
+        },
+        {
+            "id": "item-e5d73d76-4b46-439b-9107-9ca50e4801e4",
+            "indent": 1,
+            "location": "pages\/lesson-3-data-description\/index.html",
+            "order": 1,
+            "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
+            "title": "Lesson 3: Data Description",
+            "description": "",
+            "metadata": {
+                "created": 1557947770,
+                "updated": 1557947770
+            }
+        },
+        {
+            "id": "item-5d2fc7c2-6b2a-43d7-94b8-7ab04b68d208",
+            "indent": 2,
+            "location": "pages\/why-program-gggg\/index.html",
+            "order": 0,
+            "parent": "item-e5d73d76-4b46-439b-9107-9ca50e4801e4",
+            "title": "Why Program?gggg",
+            "description": "",
+            "metadata": {
+                "created": 1557947770,
+                "updated": 1557947770
+            }
+        },
+        {
+            "id": "item-3563aa90-c3e6-41d1-92d1-7736ad6755ef",
+            "indent": 2,
+            "location": "pages\/dffdgdfg\/index.html",
+            "order": 1,
+            "parent": "item-e5d73d76-4b46-439b-9107-9ca50e4801e4",
+            "title": "dffdgdfg",
+            "description": "",
+            "metadata": {
+                "created": 1557947770,
+                "updated": 1557947770
+            }
+        },
+        {
+            "id": "item-555693b8-6859-44cf-b88e-40158162044e",
+            "indent": 2,
+            "location": "pages\/new-things-1\/index.html",
+            "order": 2,
+            "parent": "item-e5d73d76-4b46-439b-9107-9ca50e4801e4",
+            "title": "New things",
+            "description": "",
+            "metadata": {
+                "created": 1557947770,
+                "updated": 1557947770
+            }
+        },
+        {
+            "id": "item-7a3211ff-e400-42a1-a8cc-802c496b5761",
+            "indent": 3,
+            "location": "pages\/or-is-it-1\/index.html",
+            "order": 0,
+            "parent": "item-555693b8-6859-44cf-b88e-40158162044e",
+            "title": "or is it",
+            "description": "",
+            "metadata": {
+                "created": 1557947770,
+                "updated": 1557947770
+            }
+        },
+        {
+            "id": "item-5a51f390-b47f-44c2-875a-abada58f2f48",
+            "indent": 3,
+            "location": "pages\/dfsdfsdfsdfsdfs-1\/index.html",
+            "order": 1,
+            "parent": "item-555693b8-6859-44cf-b88e-40158162044e",
+            "title": "dfsdfsdfsdfsdfs",
+            "description": "",
+            "metadata": {
+                "created": 1557947770,
+                "updated": 1557947770
+            }
+        },
+        {
+            "id": "item-33995e6c-60c0-4fbb-b68c-5d73b53f2a16",
+            "indent": 2,
+            "location": "pages\/more-of-the-same-1\/index.html",
+            "order": 3,
+            "parent": "item-e5d73d76-4b46-439b-9107-9ca50e4801e4",
+            "title": "more of the same",
+            "description": "",
+            "metadata": {
+                "created": 1557947770,
+                "updated": 1557947770
             }
         },
         {
             "id": "item-e2d6ff9a-fe0c-4b61-b2e6-48c9a8cf70fe",
             "indent": 1,
             "location": "pages\/variables-expressions-and-statements\/index.html",
-            "order": 1,
+            "order": 2,
             "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
             "title": "Variables, expressions, and statements",
             "description": "  ",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1555003683,
+                "updated": 1557947770,
                 "fields": {
                     "images": {
                         "0": {
@@ -489,26 +580,26 @@
             "id": "item-0bcdee69-1bf2-4aa7-8617-1e7a32e7950f",
             "indent": 1,
             "location": "pages\/conditional-execution\/index.html",
-            "order": 2,
+            "order": 3,
             "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
             "title": "Conditional Execution",
             "description": "Ex uno Plures",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1555003683
+                "updated": 1557947770
             }
         },
         {
             "id": "item-b3261352-b420-43a7-b2c9-1c3d833b9171",
             "indent": 1,
             "location": "pages\/functions\/index.html",
-            "order": 3,
+            "order": 4,
             "parent": "item-e579fe0d-863b-44be-a36d-281f697abb12",
             "title": "Functions",
             "description": "Things and stuff but let's see why this doesn't render the below thing.",
             "metadata": {
                 "created": 1552651607,
-                "updated": 1555003683,
+                "updated": 1557947770,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -531,7 +622,7 @@
             "description": "Ex uno PluresEx uno Plures",
             "metadata": {
                 "created": 1554165242,
-                "updated": 1555003683
+                "updated": 1557947770
             }
         },
         {
@@ -544,7 +635,7 @@
             "description": "Setting up your Python Development Environment            We have separate pages for each of the commonly used Operating Systems:                                    Setting up the Python Environ",
             "metadata": {
                 "created": 1552651001,
-                "updated": 1555003683,
+                "updated": 1557947770,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/2019-02-20_01-26-10.png",
@@ -575,7 +666,7 @@
             "description": "This is a description",
             "metadata": {
                 "created": 1552651265,
-                "updated": 1555003683,
+                "updated": 1557947770,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/csev_ian_dolphin_small.jpg",
@@ -598,7 +689,7 @@
             "description": "Free\/Open Course Materials            You are welcome to use\/reuse\/remix\/retain the materials from this site in your own courses.            Nearly all the material in this web site is Copyright Cr",
             "metadata": {
                 "created": 1552651172,
-                "updated": 1555003683,
+                "updated": 1557947771,
                 "fields": {
                     "images": {},
                     "subtitle": "",
@@ -623,7 +714,7 @@
             "description": "Python for EverybodyExploring Data In Python 3            New Edition! The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a comp",
             "metadata": {
                 "created": 1552651423,
-                "updated": 1555003683,
+                "updated": 1557947771,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/scale-50\/IMG_20181228_114109.jpg",
@@ -656,7 +747,7 @@
             "description": "We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d",
             "metadata": {
                 "created": 1552651428,
-                "updated": 1555003683,
+                "updated": 1557947771,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/scale-50\/csev_ian_dolphin_small.jpg",
