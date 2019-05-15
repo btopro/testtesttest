@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1555003967,
+        "updated": 1557947725,
         "domain": "https:\/\/btopro.github.io\/testtesttest",
         "theme": {
             "element": "haxcms-basic-theme",
@@ -21,8 +21,8 @@
             "socialLink": "https:\/\/twitter.com\/btopro"
         },
         "image": "assets\/banner.jpg",
-        "hexCode": "#ee0000",
-        "cssVariable": "red",
+        "hexCode": "#929100",
+        "cssVariable": "yellow",
         "publishing": {
             "git": {
                 "vendor": "github",
