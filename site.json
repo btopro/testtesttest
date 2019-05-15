@@ -7,12 +7,12 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1557947771,
+        "updated": 1557947802,
         "domain": "https:\/\/btopro.github.io\/testtesttest",
         "theme": {
-            "element": "haxcms-basic-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
-            "name": "Basic theme"
+            "element": "haxor-slevin",
+            "path": "@lrnwebcomponents\/haxor-slevin\/haxor-slevin.js",
+            "name": "Coder blog"
         },
         "author": {
             "name": "Bryan Ollendyke",
