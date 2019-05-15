@@ -7,12 +7,12 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1557947802,
+        "updated": 1557947909,
         "domain": "https:\/\/btopro.github.io\/testtesttest",
         "theme": {
-            "element": "haxor-slevin",
-            "path": "@lrnwebcomponents\/haxor-slevin\/haxor-slevin.js",
-            "name": "Coder blog"
+            "element": "simple-blog",
+            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
+            "name": "Simple blog"
         },
         "author": {
             "name": "Bryan Ollendyke",
