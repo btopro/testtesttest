@@ -405,10 +405,10 @@
             "order": 3,
             "parent": "item-6ee97fe8-3060-4856-9c24-ecdb29eac43d",
             "title": "more of the same",
-            "description": "",
+            "description": "Ex uno Plures",
             "metadata": {
                 "created": 1554165165,
-                "updated": 1557947770,
+                "updated": 1557947892,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/scale-50\/IMG_20190414_122018-1 2.jpg",
@@ -418,7 +418,8 @@
                         "name": "IMG_20190414_122018-1 2.jpg",
                         "size": 46233
                     }
-                ]
+                ],
+                "readtime": 1
             }
         },
         {
