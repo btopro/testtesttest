@@ -7,12 +7,12 @@
     "metadata": {
         "siteName": "testtesttest",
         "created": 1550610491,
-        "updated": 1557947909,
+        "updated": 1557947988,
         "domain": "https:\/\/btopro.github.io\/testtesttest",
         "theme": {
-            "element": "simple-blog",
-            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
-            "name": "Simple blog"
+            "element": "learn-two-theme",
+            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
+            "name": "Learn"
         },
         "author": {
             "name": "Bryan Ollendyke",
