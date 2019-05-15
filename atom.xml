@@ -3,7 +3,7 @@
   <title>Py4E</title>
   <link href="https://btopro.github.io/testtesttest/atom.xml" rel="self" />
   <subtitle>Python for everyone!</subtitle>
-  <updated>2019-05-15T19:15:25+00:00</updated>
+  <updated>2019-05-15T19:16:42+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -99,6 +99,90 @@
     <published>2019-04-02T00:32:45+00:00</published>
     <summary></summary>
     <link href="https://btopro.github.io/testtesttest/more-of-the-same"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Lesson 3: Data Description</title>
+    <id>https://btopro.github.io/testtesttest/lesson-3-data-description</id>
+    <updated>2019-05-15T19:16:10+00:00</updated>
+    <published>2019-05-15T19:16:10+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/testtesttest/lesson-3-data-description"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Why Program?gggg</title>
+    <id>https://btopro.github.io/testtesttest/why-program-gggg</id>
+    <updated>2019-05-15T19:16:10+00:00</updated>
+    <published>2019-05-15T19:16:10+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/testtesttest/why-program-gggg"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>dffdgdfg</title>
+    <id>https://btopro.github.io/testtesttest/dffdgdfg</id>
+    <updated>2019-05-15T19:16:10+00:00</updated>
+    <published>2019-05-15T19:16:10+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/testtesttest/dffdgdfg"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>New things</title>
+    <id>https://btopro.github.io/testtesttest/new-things-1</id>
+    <updated>2019-05-15T19:16:10+00:00</updated>
+    <published>2019-05-15T19:16:10+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/testtesttest/new-things-1"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>or is it</title>
+    <id>https://btopro.github.io/testtesttest/or-is-it-1</id>
+    <updated>2019-05-15T19:16:10+00:00</updated>
+    <published>2019-05-15T19:16:10+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/testtesttest/or-is-it-1"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>dfsdfsdfsdfsdfs</title>
+    <id>https://btopro.github.io/testtesttest/dfsdfsdfsdfsdfs-1</id>
+    <updated>2019-05-15T19:16:10+00:00</updated>
+    <published>2019-05-15T19:16:10+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/testtesttest/dfsdfsdfsdfsdfs-1"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>more of the same</title>
+    <id>https://btopro.github.io/testtesttest/more-of-the-same-1</id>
+    <updated>2019-05-15T19:16:10+00:00</updated>
+    <published>2019-05-15T19:16:10+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/testtesttest/more-of-the-same-1"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -210,90 +294,6 @@
     
     <content type="html">
       <![CDATA[ We here at PY4E use Google Accounts as our sole login.We do not want to spend a lot of time verifying identity, resetting passwords,detecting robot-login storms, and other issues so we let Google d ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Lesson 3: Data Description</title>
-    <id>https://btopro.github.io/testtesttest/lesson-3-data-description</id>
-    <updated>2019-05-15T19:16:10+00:00</updated>
-    <published>2019-05-15T19:16:10+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/lesson-3-data-description"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Why Program?gggg</title>
-    <id>https://btopro.github.io/testtesttest/why-program-gggg</id>
-    <updated>2019-05-15T19:16:10+00:00</updated>
-    <published>2019-05-15T19:16:10+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/why-program-gggg"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>dffdgdfg</title>
-    <id>https://btopro.github.io/testtesttest/dffdgdfg</id>
-    <updated>2019-05-15T19:16:10+00:00</updated>
-    <published>2019-05-15T19:16:10+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/dffdgdfg"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>New things</title>
-    <id>https://btopro.github.io/testtesttest/new-things-1</id>
-    <updated>2019-05-15T19:16:10+00:00</updated>
-    <published>2019-05-15T19:16:10+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/new-things-1"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>or is it</title>
-    <id>https://btopro.github.io/testtesttest/or-is-it-1</id>
-    <updated>2019-05-15T19:16:10+00:00</updated>
-    <published>2019-05-15T19:16:10+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/or-is-it-1"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>dfsdfsdfsdfsdfs</title>
-    <id>https://btopro.github.io/testtesttest/dfsdfsdfsdfsdfs-1</id>
-    <updated>2019-05-15T19:16:10+00:00</updated>
-    <published>2019-05-15T19:16:10+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/dfsdfsdfsdfsdfs-1"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>more of the same</title>
-    <id>https://btopro.github.io/testtesttest/more-of-the-same-1</id>
-    <updated>2019-05-15T19:16:10+00:00</updated>
-    <published>2019-05-15T19:16:10+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/testtesttest/more-of-the-same-1"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>
