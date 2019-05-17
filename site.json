@@ -270,6 +270,14 @@
                         "type": "image\/jpeg",
                         "name": "D2xiMJXXQAAbRuB.jpg",
                         "size": 97761
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/testtesttest\/files\/scale-50\/IMG_20181228_114109.jpg",
+                        "fullUrl": "\/sites\/testtesttest\/files\/scale-50\/IMG_20181228_114109.jpg",
+                        "url": "files\/scale-50\/IMG_20181228_114109.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20181228_114109.jpg",
+                        "size": 26459
                     }
                 ],
                 "fields": {
