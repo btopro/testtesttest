@@ -141,7 +141,7 @@
             "metadata": {
                 "type": "news",
                 "created": 1552651019,
-                "updated": 1558383294,
+                "updated": 1558383309,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/testtesttest\/files\/IMG_20190127_153429.jpg",
@@ -287,7 +287,23 @@
                     "tags": {}
                 },
                 "readtime": 1,
-                "contentDetails": null
+                "contentDetails": {
+                    "headings": 5,
+                    "paragraphs": 0,
+                    "schema": [
+                        {
+                            "resource": "#00c0899b-78f1-6386-3f22",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "h2": 5,
+                        "media-image": 1,
+                        "meme-maker": 1,
+                        "img": 1
+                    },
+                    "elements": 8
+                }
             }
         },
         {
