@@ -75,4 +75,9 @@ DirectoryIndex index.html
 <IfModule mod_headers.c>
   # Disable content sniffing, since it's an attack vector.
   Header always set X-Content-Type-Options nosniff
+  <IfModule http2_module>
+    <FilesMatch "(index.html)$">
+      Header set Link "<site.json>; rel=preload; as=script; type=application/json"
+    </FilesMatch>
+  </IfModule>
 </IfModule>
